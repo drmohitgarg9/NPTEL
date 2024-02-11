@@ -1,22 +1,17 @@
 ###Week-4 Lecture Objects
 
-
 #Object Syntax
 
 # ObjectName  <-  value
 
 #Object Name
 
-
 Nptel  <-  14
 
 Nptel <- "Mohit Garg"
 Nptel <- TRUE
 
-
-
 #(letter/period, recommended letter only)
-
 
 Author <- 12
 
@@ -33,8 +28,6 @@ Author123 <-12
 
 Author_123 <-12
 
-
-
 ##Case Sensitive
 
 AUTHOR <-23
@@ -45,11 +38,9 @@ author <- 36
 
 else<-123
 
-
 ##No special character( (,$,%@,&,)) except _ . 
 
 Author%<-234
-
 
 # Valid Object Name # Invalid Object Name
 
@@ -74,8 +65,6 @@ class(Nptel1)
 class(Nptel2)
 
 class(Nptel3)
-
-
 
 
 #Numeric 
@@ -107,21 +96,15 @@ Nptel<-as.integer(NptINT)
 
 Nptel
 
-
 #Character 
-
 
 NptCHAR <- "Welcome to MOOC"
 
 class(NptCHAR)
 
-
 NptCHAR
 
-
 NptCHAR <- welcome to mooc
-
-
 
 
 #Logical 
@@ -158,10 +141,9 @@ ls()
 
 #rm() to remove the object
 
-rm("value")
-
 ##Single Removal
 
+rm("value")
 
 ##MultiRemoval
 
@@ -169,8 +151,6 @@ rm(list=ls())
 
 
 #Practice 
-
-
 #Create Object that store your name and pin code of your area
 #Share in the discussion forum. 
 
