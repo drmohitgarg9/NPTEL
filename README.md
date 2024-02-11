@@ -1,4 +1,4 @@
-# Welcome to the R code repository of NPTEL Course on Science Communication: Research Productivity and Data Analytics using Open Source Software!
+# Welcome to the R code repository of NPTEL Course on "Science Communication: Research Productivity and Data Analytics using Open Source Software"
 
 This repository contains the R code and associated files discussed during the course. Below, you'll find a brief overview of the contents and instructions on how to use them.
 
