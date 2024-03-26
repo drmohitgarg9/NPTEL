@@ -1,0 +1,3020 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ojennus, P
+AF Ojennus, Paul
+TI Modelling advances in gatekeeping theory for academic libraries
+SO JOURNAL OF DOCUMENTATION
+LA English
+DT Article
+DE Selection; Information management; Theory; Modelling; Academic
+   libraries; Gatekeeping theory
+ID INFORMATION; FRAMEWORK; SELECTION; ROLES
+AB Purpose
+   The purpose of this paper is to evaluate the appropriateness of gatekeeping theory, particularly its recent elaboration in journalism and communication studies for the investigation of information flows in academic libraries.
+   Design/methodology/approach
+   This paper uses the methods of conceptual analysis and thought experiment.
+   Findings
+   This paper finds that current elaborations of gatekeeping theory are useful for modeling library information flows, particularly identifying and evaluating influences on those flows. It is able to reframe intransigent issues around library neutrality and open access so that more nuanced approaches can be constructed.
+   Originality/value
+   Gatekeeping theory as elaborated by Shoemaker and Vos for journalism and communication studies, while occasionally referenced the library and information science (LIS) literature, has not been previously evaluated as a framework for library information flows. This is the first paper to assess the potential of aspects of the theory such as levels of analysis and multiplicity of channels to reframe issues in LIS.
+C1 [Ojennus, Paul] Whitworth Univ, Lib Dept, Spokane, WA 99251 USA.
+C3 Whitworth University
+RP Ojennus, P (corresponding author), Whitworth Univ, Lib Dept, Spokane, WA 99251 USA.
+EM pojennus@whitworth.edu
+NR 54
+TC 3
+Z9 5
+U1 1
+U2 19
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0022-0418
+EI 1758-7379
+J9 J DOC
+JI J. Doc.
+PD MAR 9
+PY 2020
+VL 76
+IS 2
+BP 389
+EP 408
+DI 10.1108/JD-03-2019-0051
+PG 20
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA KJ8ZR
+UT WOS:000512345100002
+DA 2024-01-21
+ER
+
+PT J
+AU Xie, I
+   Babu, R
+   Lee, TH
+   Castillo, MD
+   You, S
+   Hanlon, AM
+AF Xie, Iris
+   Babu, Rakesh
+   Lee, Tae Hee
+   Castillo, Melissa Davey
+   You, Sukjin
+   Hanlon, Ann M.
+TI Enhancing usability of digital libraries: Designing help features to
+   support blind and visually impaired users
+SO INFORMATION PROCESSING & MANAGEMENT
+LA English
+DT Article
+DE Digital libraries; Blind users; Visually impaired users; Usability; Ease
+   of use; Satisfaction
+ID PERCEIVED USEFULNESS; DISABLED USERS; WEB; ACCESSIBILITY; ACCEPTANCE;
+   INSTRUMENT; CHALLENGES; INTERNET; QUALITY; CONTEXT
+AB Blind and visually impaired (BVI) users experience vulnerabilities in digital library (DL) environments largely due to limitations in DL design that prevent them from effectively interacting with DL content and features. Existing research has not adequately examined how BVI users interact with DLs, nor the typical problems encountered during interactions. This is the first study conducted to test whether implementing help features corresponding to BVI users' needs can reduce five critical help-seeking situations they typically encounter, with the goal to further enhance usability of DLs. Multiple data collection methods including pre-questionnaires, think-aloud protocols, transaction logs, and pre and post search interviews, were employed in an experimental design. Forty subjects were divided into two groups with similar demographic data based on data generated from pre-questionnaires. The findings of this study show that the experimental group encountered fewer number of help-seeking situations than the control group when interacting with the experimental and baseline versions of a DL. Moreover, the experimental group outperformed the control group on perceived usefulness of the DL features, ease of use of the DL, and DL satisfaction. This study provides theoretical and practical contributions to the field of library and information science. Theoretically, this study frames vulnerabilities of BVI users within the social model of disability in which improper DL design impairs their ability to effectively access and use DLs. Practically, this study takes into account BVI users' critical help-seeking situations and further translates these into the design of help features to improve the usability of DLs.
+C1 [Xie, Iris; Lee, Tae Hee; Castillo, Melissa Davey; You, Sukjin] Univ Wisconsin, Sch Informat Studies, Milwaukee, WI 53201 USA.
+   [Babu, Rakesh] Envision, Wichita, KS 67203 USA.
+   [Hanlon, Ann M.] Univ Wisconsin Milwaukee Lib, Milwaukee, WI 53211 USA.
+C3 University of Wisconsin System; University of Wisconsin Milwaukee
+RP Xie, I (corresponding author), Univ Wisconsin, Sch Informat Studies, Milwaukee, WI 53201 USA.
+EM hiris@uwm.edu
+RI You, Sukjin/HOC-9918-2023; Hanlon, Ann Mairin/JTV-4520-2023
+OI Hanlon, Ann Mairin/0000-0001-9207-4135; You, Sukjin/0000-0001-6145-2068
+FU OCLC/ALISE Library and Information Science Research Grants; IMLS
+   Leadership Grants for Libraries
+FX The authors thank OCLC/ALISE Library and Information Science Research
+   Grants and IMLS Leadership Grants for Libraries for funding for this
+   project, as well as Sukwon Lee for his help in data collection.
+NR 81
+TC 19
+Z9 19
+U1 7
+U2 75
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0306-4573
+EI 1873-5371
+J9 INFORM PROCESS MANAG
+JI Inf. Process. Manage.
+PD MAY
+PY 2020
+VL 57
+IS 3
+AR 102110
+DI 10.1016/j.ipm.2019.102110
+PG 14
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA LH1LF
+UT WOS:000528550100010
+DA 2024-01-21
+ER
+
+PT J
+AU Gohr, M
+   Nova, VA
+AF Gohr, Michelle
+   Nova, Vitalina A.
+TI Student trauma experiences, library instruction and existence under the
+   45th
+SO REFERENCE SERVICES REVIEW
+LA English
+DT Article
+DE Academic libraries; Diversity; Critical thinking; Library instruction;
+   Social justice; Educational reform; Libraries; Pedagogy; Critical
+   theory; Equity; Neoliberalism; Information literacy; Inclusion;
+   Trauma-informed pedagogies
+ID RACIAL-DISCRIMINATION; POSTTRAUMATIC STRESS; INFORMATION LITERACY;
+   COLLEGE-STUDENTS; HIGHER-EDUCATION; TRUMP; NEOLIBERALISM; PEDAGOGIES;
+   RESPONSES; BEHAVIOR
+AB Purpose By historicizing the broader system of education contextualized under the 45th presidential administration, this paper aims to provide a nuanced discussion regarding the condition of information literacy and librarianship as capitalist institutions in service to the state. In response, tools to oppose systemic racism and minimize harm in the classroom as well as recommendations for change and resistance are addressed. Design/methodology/approach The paper focuses on historical analysis of libraries as institutions within larger educational systems and draws heavily on critical theories as a method of critique. Findings This paper demonstrates that the 45th presidential administration is a logical progression of neoliberalism and institutionalized discrimination, which has had adverse effects on the health and safety of (primarily marginalized) students, library workers and library practice, but that critical reflection and information seeking on part of librarians may provide solutions.
+   Originality/value Given the lack of diversity in library and information science, this paper provides critical interventions for information literacy practice. The authors' unique practical and theoretical backgrounds allow for nuanced discussion and pedagogical creation which directly impacts and addresses key issues of justice and equity in the classroom.
+C1 [Gohr, Michelle] Arizona State Univ, Crit Informat Literacy, Tempe, AZ 85281 USA.
+   [Nova, Vitalina A.] Temple Univ, Coll Educ, Charles Lib, Philadelphia, PA 19122 USA.
+C3 Arizona State University; Arizona State University-Tempe; Pennsylvania
+   Commonwealth System of Higher Education (PCSHE); Temple University
+RP Gohr, M (corresponding author), Arizona State Univ, Crit Informat Literacy, Tempe, AZ 85281 USA.
+EM michelle.gohr@asu.edu
+OI Nova, Vitalina/0000-0001-5522-7147
+NR 79
+TC 3
+Z9 3
+U1 2
+U2 28
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0090-7324
+EI 2054-1716
+J9 REF SERV REV
+JI Ref. Serv. Rev.
+PD JAN 8
+PY 2020
+VL 48
+IS 1
+SI SI
+BP 183
+EP 199
+DI 10.1108/RSR-09-2019-0062
+EA JAN 2020
+PG 17
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA LF3WO
+UT WOS:000506465300001
+OA Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Xu, JH
+   Wang, PR
+   Sturm, BW
+   Wu, YY
+AF Xu, Jianhua
+   Wang, Pianran
+   Sturm, Brian W.
+   Wu, Yingying
+TI How preschool children think about libraries: Evidence from six
+   children's libraries in China
+SO JOURNAL OF LIBRARIANSHIP AND INFORMATION SCIENCE
+LA English
+DT Article
+DE Children's library; interpersonal needs; Mosaic approach; preschool
+   children; third place
+ID YOUNG-CHILDREN; INFORMATION-SEEKING; PERSPECTIVES; EXPERIENCES;
+   LITERACY; SERVICES; BEHAVIOR; HEARING; ADULTS; VOICE
+AB Listening to young children's voices is crucial to improving children's library services. The first step is unveiling how young children think about the library. Thus, researchers recruited the Mosaic approach including photography, interview, and drawing to explore the features of children's libraries in children's perspectives in six libraries in China. The results indicate that first, the children's library is a "primary third place". Second, the children's library is an overlapping of home and society. Third, children can read books in the children's library, but not just read. Fourth, the children's library improves children's awareness as patrons. It is suggested that young patrons already form initial understandings of the library, begin to complain about any problems, and put forward requirements for the library. Additionally, their interpersonal needs should be paid attention to. Therefore, librarians and researchers should respect the rights of children and listen to their voice when designing and providing library services associated with children.
+C1 [Xu, Jianhua; Wang, Pianran; Wu, Yingying] Nankai Univ, Sch Business, Dept Informat Resources Management, Tianjin 300071, Peoples R China.
+   [Sturm, Brian W.] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27515 USA.
+C3 Nankai University; University of North Carolina; University of North
+   Carolina Chapel Hill
+RP Wang, PR (corresponding author), Nankai Univ, Sch Business, Dept Informat Resources Management, Tianjin 300071, Peoples R China.
+EM pianran@mail.nankai.edu.cn
+OI wang, pian ran/0000-0002-0029-2715
+NR 80
+TC 4
+Z9 4
+U1 11
+U2 89
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0961-0006
+EI 1741-6477
+J9 J LIBR INF SCI
+JI J. Libr. Inf. Sci.
+PD JUN
+PY 2020
+VL 52
+IS 2
+BP 428
+EP 440
+DI 10.1177/0961000618818887
+PG 13
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA LD9ZL
+UT WOS:000526383900008
+DA 2024-01-21
+ER
+
+PT J
+AU Latham, KF
+   Hartel, J
+   Gorichanaz, T
+AF Latham, Kiersten F.
+   Hartel, Jenna
+   Gorichanaz, Tim
+TI Information and contemplation: a call for reflection and action
+SO JOURNAL OF DOCUMENTATION
+LA English
+DT Article
+DE Contemplation; Contemplative studies; Information science; Information
+   behavior; Philosophy; Wisdom; Libraries; Museums
+ID LIBRARY
+AB Purpose Americans increasingly feel a sense of wonder at the universe; meditation and yoga are on the rise; and a field known as Contemplative Studies has emerged. These indicators, among others, suggest a groundswell of interest in contemplative practice and contemplative experience and raise intriguing questions for information and Information Studies. Against this backdrop, this paper asks: How might Information Studies contribute to these developments? What is the relationship between information and contemplation? What can be explored on this research frontier? Design/methodology/approach This conceptual paper is based upon a synthesis of recent writings from the field of Contemplative Studies as well as conceptual analysis of selected papers and themes in Information Studies. It draws from discussion that occurred at a Session for Interaction and Engagement at the 2018 iConference, entitled "Contemplating Information in the Pleasurable and the Profound" (Latham et al., 2018). The authors' creative thinking and personal contemplative practices also infuse and fortify the work. Findings Popular and academic contemplative movements are afoot, and Information Studies has an opportunity to participate or be left behind. The field of Contemplative Studies has established the foundational concepts that can serve as contextual material for information research into contemplation. Upon closer inspection, Information Studies has already broached the topic of contemplation at various points in its history, theory, institutional practices, and information behavior research. The conceptual points of departure for a research frontier are articulated. Originality/value Beyond data, information, and knowledge are deeper and more profound aims, such as wisdom, which is related to contemplation. This paper supplies a rationale, scholarly community, conceptual resources, historical precedents, and guiding questions for bridging information and contemplation.
+C1 [Latham, Kiersten F.] Michigan State Univ, Dept Arts & Cultural Management & Museum Studies, E Lansing, MI 48824 USA.
+   [Hartel, Jenna] Univ Toronto, Fac Informat, Toronto, ON, Canada.
+   [Gorichanaz, Tim] Drexel Univ, Coll Comp & Informat, Philadelphia, PA 19104 USA.
+C3 Michigan State University; University of Toronto; Drexel University
+RP Latham, KF (corresponding author), Michigan State Univ, Dept Arts & Cultural Management & Museum Studies, E Lansing, MI 48824 USA.
+EM kflatham@msu.edu
+NR 99
+TC 12
+Z9 14
+U1 5
+U2 34
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0022-0418
+EI 1758-7379
+J9 J DOC
+JI J. Doc.
+PD SEP 14
+PY 2020
+VL 76
+IS 5
+BP 999
+EP 1017
+DI 10.1108/JD-05-2019-0076
+EA MAR 2020
+PG 19
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA NC8BT
+UT WOS:000525074600001
+DA 2024-01-21
+ER
+
+PT J
+AU Dresel, R
+   Henkel, M
+   Scheibe, K
+   Zimmer, F
+   Stock, WG
+AF Dresel, Robin
+   Henkel, Maria
+   Scheibe, Katrin
+   Zimmer, Franziska
+   Stock, Wolfgang G.
+TI A Nationwide Library System and Its Place in Knowledge Society and Smart
+   Nation: The Case of Singapore
+SO LIBRI-INTERNATIONAL JOURNAL OF LIBRARIES AND INFORMATION STUDIES
+LA English
+DT Article
+DE library system; Singapore; NLB; smart nation; knowledge society
+ID PUBLIC-LIBRARIES
+AB What role can a library system play in the development of a knowledge society and a smart city or a smart nation? In Singapore, we are able to identify governmental master plans to develop and to consolidate a knowledge society and a knowledge-based economy since around 1980. The current Smart Nation plan aims for comprehensive digital innovations in the country. Singapore's National Library Board (NLB) is an agency of the Ministry of Communication and Information; it is responsible for the Public Libraries, the National Library, and the National Archives. Its duties are regulated by law. This article describes the tasks of NLB and its institutions, the physical as well as digital resources, NLB's services (for instance, OneSearch and the Singapore Memory Project), important programs (e.g. activities to foster digital literacy and information literacy), NLB's social media activities, and, finally, user participation (following design thinking) in the development of NLB's services. In contrast to many other countries in the world, the nationwide library system in Singapore plays an important role on the way towards a knowledge society and Smart Nation as it fosters ubiquitous access to knowledge (content), provides spaces for the community, and attempts to deepen digital literacy skills of all Singaporeans.
+C1 [Henkel, Maria; Scheibe, Katrin; Zimmer, Franziska; Stock, Wolfgang G.] Heinrich Heine Univ Dusseldorf, Dept Informat Sci, Univ Str 1, D-40225 Dusseldorf, Germany.
+   [Dresel, Robin] Natl Lib Board Singapore, 100 Victoria St 14-01, Singapore 188064, Singapore.
+C3 Heinrich Heine University Dusseldorf
+RP Stock, WG (corresponding author), Heinrich Heine Univ Dusseldorf, Dept Informat Sci, Univ Str 1, D-40225 Dusseldorf, Germany.
+EM Robin_DRESEL@nlb.gov.sg; Maria.Henkel@hhu.de; Katrin.Scheibe@hhu.de;
+   Franziska.Zimmer@hhu.de; stock@phil.hhu.de
+RI Demir, Fatma/GWZ-5156-2022; Stock, Wolfgang G./AAW-1976-2020
+OI Zimmer, Franziska/0000-0002-4670-5175
+NR 51
+TC 6
+Z9 7
+U1 13
+U2 92
+PU WALTER DE GRUYTER GMBH
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 0024-2667
+EI 1865-8423
+J9 LIBRI
+JI Libri
+PD MAR
+PY 2020
+VL 70
+IS 1
+BP 81
+EP 94
+DI 10.1515/libri-2019-0019
+PG 14
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA KS7FH
+UT WOS:000518471600006
+DA 2024-01-21
+ER
+
+PT J
+AU Kushkowski, JD
+   Shrader, CB
+   Anderson, MH
+   White, RE
+AF Kushkowski, Jeffrey D.
+   Shrader, Charles B.
+   Anderson, Marc H.
+   White, Robert E.
+TI Information flows and topic modeling in corporate governance
+SO JOURNAL OF DOCUMENTATION
+LA English
+DT Article
+DE Corporate governance; Bibliometrics; Citation analysis; Latent Dirichlet
+   allocation; Agency theory; Director; Interdisciplinary
+ID INTELLECTUAL STRUCTURE; BIBLIOMETRIC ANALYSIS; MANAGEMENT RESEARCH;
+   COCITATION ANALYSIS; CITATION; SCIENCE; FIELD; UNIVERSITY; LOGISTICS;
+   EVOLUTION
+AB Purpose Multiple disciplines such as finance, management and economics have contributed to governance research over time. However, the full intellectual structure of the governance "field" including the exchange of knowledge across disciplines and the large variety of governance topics remains to be uncovered. To appreciate the breadth of corporate governance research, it is necessary to understand the disciplinary sources from which the research stems. This manuscript focuses on the interdisciplinary underpinnings of corporate governance research. Design/methodology/approach This paper employs bibliometric analysis to trace the evolution of corporate governance using articles included in the ISI Web of Science database between 1990 and 2015. Journals included in these categories encompass a full range of business disciplines and provide evidence of the multi-disciplinary nature of corporate governance. It also uncovers the topics treated by disciplines under the governance umbrella using a machine learning method called latent Dirichtlet allocation (LDA). Findings Corporate governance research deals with a number of strategy-related topics. Unlike strategy topics that reside in a single discipline, corporate governance crosses disciplinary boundaries and includes contributions from accounting, finance, economics, law and management. Our analysis shows that over 80% of corporate governance articles come from outside the field of management. Our LDA solution indicates that the major topics in governance research include corporate governance theory, control of family firms, executive compensation and audit committees. Originality/value The results illustrate that corporate governance is far more interdisciplinary than previously thought. This is an important insight for corporate governance academics and may lead to collaborative research. More importantly, this research illustrates the usefulness of LDA for investigating interdisciplinary fields. This method is easily transferable to other interdisciplinary fields and it provides a powerful alternative to existing bibliometric methods. We suggest a number of topic areas within library and information science where this method may be applied, including collection development, support for interdisciplinary faculty and basic research into emerging interdisciplinary areas.
+C1 [Kushkowski, Jeffrey D.] Iowa State Univ, Univ Lib, Ames, IA 50011 USA.
+   [Shrader, Charles B.; Anderson, Marc H.; White, Robert E.] Iowa State Univ, Dept Management, Ivy Coll Business, Ames, IA USA.
+C3 Iowa State University; Iowa State University
+RP Kushkowski, JD (corresponding author), Iowa State Univ, Univ Lib, Ames, IA 50011 USA.
+EM kushkows@iastate.edu; cshrader@iastate.edu; mha@iastate.edu;
+   rewhite@iastate.edu
+RI Kushkowski, Jeffrey/IYJ-9478-2023
+OI Kushkowski, Jeffrey/0000-0002-5331-8149
+FU Iowa State University Ivy College of Business
+FX The authors wish to thank Florence Honore of the University of Wisconsin
+   for help with the early stages of this project and feedback on the
+   manuscript; Kyle Hansen, Manaswi Podduturi and Hope Scheffert of
+   Kingland Systems for their help with the latent Dirichlet allocation
+   analysis; and, Kelly Moore for assistance with data collection. Thanks
+   to the Iowa State University Ivy College of Business and the University
+   Library for financial support of the open access fees.
+NR 54
+TC 4
+Z9 5
+U1 8
+U2 53
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0022-0418
+EI 1758-7379
+J9 J DOC
+JI J. Doc.
+PD OCT 5
+PY 2020
+VL 76
+IS 6
+BP 1313
+EP 1339
+DI 10.1108/JD-10-2019-0207
+EA JUN 2020
+PG 27
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA PB2EL
+UT WOS:000541942200001
+OA hybrid, Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Lin, L
+   Shadiev, R
+   Hwang, WY
+   Shen, SS
+AF Lin, Lin
+   Shadiev, Rustam
+   Hwang, Wu-Yuin
+   Shen, Shusheng
+TI From knowledge and skills to digital works: An application of design
+   thinking in the information technology course
+SO THINKING SKILLS AND CREATIVITY
+LA English
+DT Article
+DE Design thinking; Information technology course; Digital work; Curriculum
+   goal; Secondary school education
+ID LEARNING-PROCESS; STUDENTS
+AB Design thinking, an innovative methodology, is used to guide the instruction of traditional subjects to cultivate students' 21 st century skills. However, little research has clearly explained whether incorporating design thinking into the instruction of traditional subjects affects the achievement of curriculum goals. Therefore, this study aimed to explore the effects of design thinking during the instruction, in terms of reaching curriculum goals. We modified the existing design thinking framework and applied it to the information technology course. Through the experimental design and case study, we investigated how design thinking facilitated achieving the different levels of curriculum goals. Two seventh-grade classes with different instructional designs of informational technology curriculum were observed: i) one studied using the design thinking approach, and ii) another using traditional teaching methods. The results suggested that design thinking can promote the achievement of both low-level curriculum goals (i.e. mastery of the basic information knowledge and skills) and high-level curriculum goals (i.e. production of valuable, diverse, and original digital works).
+C1 [Lin, Lin; Shadiev, Rustam; Shen, Shusheng] Nanjing Normal Univ, Sch Educ Sci, Nanjing, Peoples R China.
+   [Hwang, Wu-Yuin] Natl Cent Univ, Grad Inst Network, Learning Technol, Taoyuan, Taiwan.
+C3 Nanjing Normal University; National Central University
+RP Shadiev, R (corresponding author), Nanjing Normal Univ, Sch Educ Sci, Nanjing, Peoples R China.
+EM rustamsh@gmail.com
+RI Shadiev, Rustam/G-5083-2010; Demir, Fatma/GWZ-5156-2022; Hwang,
+   Wu-Yuin/HTQ-8041-2023
+OI Shadiev, Rustam/0000-0001-5571-1158; Hwang, Wu-Yuin/0000-0001-5684-3590;
+   Lin, Lin/0000-0002-2400-5864; Shen, Shusheng/0000-0001-8427-1817
+FU China's National Office for Education Sciences Planning [BCA190081];
+   Postgraduation Research and Practice Innovation Program of Jiangsu
+   Province [KYCX19_0728]
+FX This work was supported by the China's National Office for Education
+   Sciences Planning [grant numbers BCA190081]; and the Postgraduation
+   Research and Practice Innovation Program of Jiangsu Province [grant
+   numbers KYCX19_0728].
+NR 45
+TC 43
+Z9 46
+U1 9
+U2 80
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1871-1871
+EI 1878-0423
+J9 THINK SKILLS CREAT
+JI Think. Skills Creat.
+PD JUN
+PY 2020
+VL 36
+AR 100646
+DI 10.1016/j.tsc.2020.100646
+PG 12
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA LX3CY
+UT WOS:000539714300005
+DA 2024-01-21
+ER
+
+PT J
+AU Liu, JJ
+   Li, Y
+AF Liu, Jingjing
+   Li, Yuan
+TI Supporting information use and task accomplishment: What system features
+   do users like and expect?
+SO JOURNAL OF INFORMATION SCIENCE
+LA English
+DT Article
+DE Information use; task accomplishment; user expectation
+AB Information systems have been improving in helping users find information. However, they have been less attended to regarding helping searchers in using located information. This research attempts to address the issue of information use by investigating what information systems and features searchers think are helpful in using located information to accomplish information tasks. In all, 32 college students were invited to an information interaction lab, first being interviewed on a recently completed task and then working on a to-be-finished task, both being their real-life tasks of their own choices. Through questionnaires, the study discovered the most favoured existing and expected features helpful for users' task completion. Users expected convenient citations, note taking in search result pages and being kept on task. Findings in this study have implications on designing search systems that can better support task accomplishment, in addition to returning search results.
+C1 [Liu, Jingjing] Univ South Carolina, Sch Lib & Informat Sci, Columbia, SC 29208 USA.
+   [Li, Yuan] Univ N Carolina, Sch Informat & Lib Sci, Chapel Hill, NC 27515 USA.
+C3 University of South Carolina System; University of South Carolina
+   Columbia; University of North Carolina; University of North Carolina
+   Chapel Hill
+RP Liu, JJ (corresponding author), Univ South Carolina, Sch Lib & Informat Sci, Columbia, SC 29208 USA.
+EM jliujingjing@gmail.com
+FU Office of the Vice President for Research at the University of South
+   Carolina
+FX The author(s) disclosed receipt of the following financial support for
+   the research, authorship, and/or publication of this article: This
+   article was partially sponsored by an ASPIR-I grant from the Office of
+   the Vice President for Research at the University of South Carolina.
+NR 33
+TC 3
+Z9 3
+U1 1
+U2 6
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0165-5515
+EI 1741-6485
+J9 J INF SCI
+JI J. Inf. Sci.
+PD OCT
+PY 2021
+VL 47
+IS 5
+BP 627
+EP 641
+AR 0165551520917100
+DI 10.1177/0165551520917100
+EA JUN 2020
+PG 15
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA WK0SQ
+UT WOS:000539062900001
+DA 2024-01-21
+ER
+
+PT J
+AU Barba, LA
+AF Barba, Lorena A.
+TI Engineers Code: Reusable Open Learning Modules for Engineering
+   Computations
+SO COMPUTING IN SCIENCE & ENGINEERING
+LA English
+DT Article
+DE Python; Education; Licenses; Programming profession; Arrays; Libraries
+ID SCIENCE
+AB Undergraduate programs in science and engineering include at least one course in basic programming, but seldom presented in a contextualized format, where computing is a tool for thinking and learning in the discipline. We have created a series of learning modules to embed computing in engineering education, and share this content under permissive public licenses. The modules are created as a set of lessons using Jupyter notebooks, and complemented by online courses in the Open edX platform, using new integrations we developed. Learning sequences in the online course pull content dynamically from public Jupyter notebooks and assessments are autograded on-the-fly, using our Jupyter Viewer and Jupyter Grader third-party extensions for Open edX. The learning content is modularized and designed for reuse in various formats. In one of these formats-short but intense workshops-our university library is leveraging the curriculum to offer extracurricular training for all, at high demands.
+C1 [Barba, Lorena A.] George Washington Univ, Mech & Aerosp Engn, Washington, DC 20052 USA.
+C3 George Washington University
+RP Barba, LA (corresponding author), George Washington Univ, Mech & Aerosp Engn, Washington, DC 20052 USA.
+EM labarba@gwu.edu
+FU Office of Advanced Cyberinfrastructure (OAC), National Science
+   Foundation [1730170]; Office of Advanced Cyberinfrastructure (OAC);
+   Direct For Computer & Info Scie & Enginr [1730170] Funding Source:
+   National Science Foundation
+FX This work was supported by the Office of Advanced Cyberinfrastructure
+   (OAC), National Science Foundation under Grant #1730170. The student
+   surveys and interviews during Fall 2017 were conducted by Tara Lifland,
+   then an instructional designer at the George Washington University
+   eDesign Shop and OER Research Fellow (http://openedgroup.org/fellowship)
+   of the Open Education Group. The surveys during the Spring 2019 were
+   conducted by Prof. Ryan Watkins from the GW School of Graduate Education
+   and Human Development. The GW Libraries Python Camps are led by Megan
+   Potterbusch and Laura Wrubel. Several graduate students in Dr. Barba's
+   group have contributed to her educational initiatives, and the
+   development of learningmodules (for this project and its predecessors):
+   Natalia C. Clementi, Pi-Yueh Chuang, Gilbert Forsyth, Olivier Mesnard,
+   and Tingyu Wang. With special and heartfelt gratitude toward all the
+   contributors to Project Jupyter and its ecosystem of tools for
+   education. Project Jupyter is a fiscally sponsored project of NumFOCUS
+   (https://numfocus.org), a 501(c)(3) U.S. non-profit with a mission to
+   promote open practices in research, data, and scientific computing.
+NR 11
+TC 4
+Z9 4
+U1 1
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1521-9615
+EI 1558-366X
+J9 COMPUT SCI ENG
+JI Comput. Sci. Eng.
+PD JUL-AUG
+PY 2020
+VL 22
+IS 4
+BP 26
+EP 35
+DI 10.1109/MCSE.2020.2976002
+PG 10
+WC Computer Science, Interdisciplinary Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MB3XC
+UT WOS:000542537300004
+OA hybrid, Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Kous, K
+   Pusnik, M
+   Hericko, M
+   Polancic, G
+AF Kous, Katja
+   Pusnik, Maja
+   Hericko, Marjan
+   Polancic, Gregor
+TI Usability evaluation of a library website with different end user groups
+SO JOURNAL OF LIBRARIANSHIP AND INFORMATION SCIENCE
+LA English
+DT Article
+DE Different groups of end users; effectiveness; efficiency; measurement
+   framework; satisfaction; usability testing
+ID DIGITAL LIBRARIES; WEB SITE; AGE; UNIVERSITY; CRITERIA; IMPACT; FIND
+AB To ensure a certain degree of usability, a library website should be carefully designed, especially since end users constitute a multitude of people with different needs and demands. The focal objective of this research was to investigate how different types of end users (i.e. pupils, students, the working population, seniors and researchers) respond to a library website in terms of its effectiveness, efficiency and satisfaction, which together represent its usability. The answers were obtained by performing formal usability testing, including think-aloud protocol, log analysis and questionnaires. The results of the statistical analysis show that different groups of end users achieve different levels of effectiveness and efficiency, while there is no significant difference between groups in satisfaction level. The results also indicate that participants did not achieve the threshold for a usable website. Based on the identified weaknesses, researchers present recommendations for improving a website's usefulness, especially for non-experienced users. This research has two main contributions: (1) the connection between the theoretical definition and practical use of ISO 9241-11 attributes and (2) a usability testing procedure with a measurement framework applicable for different types of users in a specific domain, which could be applied to other domains.
+C1 [Kous, Katja; Pusnik, Maja; Hericko, Marjan] Univ Maribor, Inst Informat, Fac Elect Engn & Comp Sci, Maribor, Slovenia.
+   [Polancic, Gregor] Univ Maribor, Comp Sci & Informat, Maribor, Slovenia.
+C3 University of Maribor; University of Maribor
+RP Kous, K (corresponding author), Univ Maribor, Fac Elect Engn & Comp Sci, Koroska Cesta 46, SLO-2000 Maribor, Slovenia.
+EM katja.kous@um.si
+NR 46
+TC 12
+Z9 14
+U1 2
+U2 44
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0961-0006
+EI 1741-6477
+J9 J LIBR INF SCI
+JI J. Libr. Inf. Sci.
+PD MAR
+PY 2020
+VL 52
+IS 1
+BP 75
+EP 90
+DI 10.1177/0961000618773133
+PG 16
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA KI9FW
+UT WOS:000511663100007
+OA Bronze
+DA 2024-01-21
+ER
+
+PT J
+AU Liu, A
+   Lu, S
+AF Liu, Ang
+   Lu, Stephen
+TI Functional design framework for innovative design thinking in product
+   development
+SO CIRP JOURNAL OF MANUFACTURING SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Design method; Design thinking; Functional design; Design education;
+   Product development
+ID QUALITY FUNCTION DEPLOYMENT; CUSTOMER SATISFACTION; KANO MODEL;
+   REQUIREMENTS; FIELD
+AB Functional design means the process of formulating a unique design problem by mapping a set of customer needs to a set of functional requirements. In the context of product development, functional design is one of the most challenging but rewarding design activities. On the one hand, designers must extract useful information from a large amount of diversified, unstructured, and even inconsistent customer voices. On the other hand, designers must formulate a set of functional requirements that are inherently intangible, solution-neutral, and arguably subjective. Functional design exerts great impacts on the formation of innovative design thinking. It is especially difficult for novice designers who are naturally inclined to rapidly dive into the solution space with little exploration of the problem space. This paper presents a systematic functional design framework to guide novice designers, through a step-bystep process, to sequentially investigate the customer domain, explore the functional domain, and manage design couplings between customer needs and functional requirements. A collection of existing design methods is incorporated, in an adaptive manner, into the framework to facilitate the execution of each step. To date, the proposed framework has been iteratively taught, practiced, and refined based on two engineering design courses since 2013. (c) 2020 CIRP.
+C1 [Liu, Ang] Univ New South Wales, Sydney, NSW 2052, Australia.
+   [Lu, Stephen] Univ Southern Calif, Los Angeles, CA 90089 USA.
+C3 University of New South Wales Sydney; University of Southern California
+RP Liu, A (corresponding author), Univ New South Wales, Sydney, NSW 2052, Australia.
+EM ang.liu@unsw.edu.au
+RI Demir, Fatma/GWZ-5156-2022
+OI Liu, Ang/0000-0001-9353-0948
+NR 49
+TC 18
+Z9 18
+U1 9
+U2 45
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1755-5817
+J9 CIRP J MANUF SCI TEC
+JI CIRP J. Manuf. Sci. Technol.
+PD AUG
+PY 2020
+VL 30
+BP 105
+EP 117
+DI 10.1016/j.cirpj.2020.04.008
+PG 13
+WC Engineering, Manufacturing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Engineering
+GA NM6EM
+UT WOS:000568188600010
+DA 2024-01-21
+ER
+
+PT J
+AU Blom, N
+   Bogaers, A
+AF Blom, Nicolaas
+   Bogaers, Alfred
+TI Using Linkography to investigate students' thinking and information use
+   during a STEM task
+SO INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION
+LA English
+DT Article
+DE Design cognition; Information sources; Linkography; STEM knowledge;
+   Technology education
+ID DESIGN PROCESS; COGNITION; CREATIVITY; MODEL
+AB One of the characteristics of the twenty-first century is the increase in the information sources available to designers to make their design decisions. However, current verbal protocol analysis methods and theoretical frameworks do not explain how internal and external information sources contribute to novice designers' moment-to-moment thought processes. The purpose of this paper is to examine the use of Linkography, a protocol analysis method, to investigate the nature of novice designers' thought processes. We also introduce the use of coloured archiographs, as a complimentary tool, to analyse how novice designers use information sources during the early phases of the design process. In order to discuss and illustrate the use of these analysis methods, we report on a case study in which a group of Grade 8 participants completed a design task requiring them to design a heat retaining food container for street food vendors at a taxi depot. The findings of this study suggests that Linkography, in combination with coloured archiographs, is a novel method in technology education to analyse and visually represent how students think while they are designing.
+C1 [Blom, Nicolaas] Univ Pretoria, Dept Sci Math & Technol Educ, Pretoria, South Africa.
+   [Bogaers, Alfred] CSIR, Adv Math Modelling Modelling & Digital Sci, Pretoria, South Africa.
+C3 University of Pretoria; Council for Scientific & Industrial Research
+   (CSIR) - South Africa
+RP Blom, N (corresponding author), Univ Pretoria, Dept Sci Math & Technol Educ, Pretoria, South Africa.
+EM nicolaas.blom@up.ac.za; abogaers@csir.co.za
+OI Blom, Nicolaas/0000-0002-6919-8380
+FU National Research Foundation (NRF) of South Africa
+FX The financial support of the National Research Foundation (NRF) of South
+   Africa is hereby acknowledged and appreciated. Opinions expressed and
+   conclusions arrived at are those of the authors and may not necessarily
+   be attributed to the above mentioned institutions.
+NR 66
+TC 9
+Z9 10
+U1 3
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0957-7572
+EI 1573-1804
+J9 INT J TECHNOL DES ED
+JI Int. J. Technol. Des. Educ.
+PD MAR
+PY 2020
+VL 30
+IS 1
+BP 1
+EP 20
+DI 10.1007/s10798-018-9489-5
+PG 20
+WC Education & Educational Research; Education, Scientific Disciplines;
+   Engineering, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research; Engineering
+GA KT9ZO
+UT WOS:000519372100001
+OA Bronze
+DA 2024-01-21
+ER
+
+PT J
+AU Hou, HY
+   Agrawal, S
+   Lee, CF
+AF Hou, Hsing-Yu
+   Agrawal, Somya
+   Lee, Chin-Feng
+TI Computational thinking training with technology for non-information
+   undergraduates
+SO THINKING SKILLS AND CREATIVITY
+LA English
+DT Article
+DE Computational thinking; Technology acceptance model; Visualization;
+   Scratch; Tableau
+ID ACCEPTANCE MODEL; PERCEIVED USEFULNESS; EDUCATION; ADOPTION; CONTEXT;
+   SCRATCH
+AB Technology not only allows us to (co-)create, collect, store, and use knowledge and information, but it also enables us to connect with people and resources all over the world, to collaborate in the creation of knowledge, and to distribute and benefit from knowledge products. In this study, two visual and interactive pedagogies in information technology are used to train non-technical students and evaluate the performance and feedback of students in a programming course in the Department of Beauty Science. Computational thinking was integrated into the design and application of the programming subject. At the end of the semester, data were collected from 40 sophomore students in the Department of Beauty Science who answered the technology acceptance model (TAM) questionnaire and Learning Satisfactory Questionnaire after the training. An analysis was conducted using basic statistical and correlation methods, and the items demonstrated good reliability for Scratch and Tableau. The mean of 14 items in the TAM questionnaire was above 3.5 for Scratch, and that of four items was lower than 3.5 for Tableau. The mean of all the items was above 4.40 for the Learning Satisfactory Questionnaire. In the correlation analysis, the variables of perceived usefulness and perceived ease of use were positively related to the attitude and behavior in Scratch and Tableau. The use of visual and interactive programming pedagogies enhanced the interest of novice and non-technical students in learning technology. The learners were satisfied with the interactive pedagogies on computational and spatial intelligence.
+C1 [Hou, Hsing-Yu] Natl Taichung Univ Sci & Technol, Coll Informat & Distribut Sci, Taichung, Taiwan.
+   [Agrawal, Somya; Lee, Chin-Feng] Chaoyang Univ Technol, Dept Informat Management, Taichung, Taiwan.
+C3 National Taichung University of Science & Technology; Chaoyang
+   University of Technology
+RP Hou, HY (corresponding author), R2805,Informat B 129,Sec 3,Sanmin Rd, Taichung 404, Taiwan.
+EM hsingyuhou@nutc.edu.tw; asomya@gm.cyut.edu.tw; lcf@gm.cyut.edu.tw
+FU Ministry of Education, Taiwan, Republic of China [PGE1090786]
+FX This research was partially supported by the Ministry of Education,
+   Taiwan, Republic of China under the Grant [PGE1090786].
+NR 58
+TC 7
+Z9 8
+U1 3
+U2 35
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1871-1871
+EI 1878-0423
+J9 THINK SKILLS CREAT
+JI Think. Skills Creat.
+PD DEC
+PY 2020
+VL 38
+AR 100720
+DI 10.1016/j.tsc.2020.100720
+PG 12
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA PF1CE
+UT WOS:000598799800012
+DA 2024-01-21
+ER
+
+PT J
+AU Hou, IC
+   Lan, MF
+   Shen, SH
+   Tsai, PY
+   Chang, KJ
+   Tai, HC
+   Tsai, AJ
+   Chang, P
+   Wang, TF
+   Sheu, SJ
+   Dykes, PC
+AF Hou, I-Ching
+   Lan, Min-Fang
+   Shen, Shan-Hsiang
+   Tsai, Pei Yu
+   Chang, King Jen
+   Tai, Hao-Chih
+   Tsai, Ay-Jen
+   Chang, Polun
+   Wang, Tze-Fang
+   Sheu, Shuh-Jen
+   Dykes, Patricia C.
+TI The Development of a Mobile Health App for Breast Cancer Self-Management
+   Support in Taiwan: Design Thinking Approach
+SO JMIR MHEALTH AND UHEALTH
+LA English
+DT Article
+DE breast cancer; mobile health application; self-management; design
+   thinking
+ID QUALITY-OF-LIFE; WOMEN; DEPRESSION; ANXIETY; NEEDS; CHEMOTHERAPY;
+   EXPERIENCE; SURVIVORS; CHINESE
+AB Background: Evidence has shown that breast cancer self-management support from mobile health (mHealth) apps can improve the quality of life of survivors. Although many breast cancer self-management support apps exist, few papers have documented the procedure for the development of a user-friendly app from the patient's perspective.
+   Objective: This study aimed to investigate the information needs of Taiwanese women with breast cancer to inform the development of a self-management support mHealth app.
+   Methods: A 5-step design thinking approach, comprising empathy, define, ideate, prototype, and test steps, was used in the focus groups and individual interviews conducted to collect information on the requirements and expectations of Taiwanese women with breast cancer with respect to the app. A thematic analysis was used to identify information needs.
+   Results: A total of 8 major themes including treatment, physical activity, diet, emotional support, health records, social resources, experience sharing, and expert consultation were identified. Minor themes included the desire to use the app under professional supervision and a trustworthy app manager to ensure the credibility of information.
+   Conclusions: The strengths of the design thinking approach were user-centered design and cultural sensitivity. The results retrieved from each step contributed to the development of the app and reduction of the gap between end users and developers. An mHealth app that addresses these 8 main themes can facilitate disease self-management for Taiwanese women with breast cancer.
+C1 [Hou, I-Ching; Tsai, Pei Yu; Wang, Tze-Fang; Sheu, Shuh-Jen] Natl Yang Ming Univ, Sch Nursing, 155,Sec 2,Li Nong St, Taipei 11221, Taiwan.
+   [Lan, Min-Fang; Chang, Polun] Natl Yang Ming Univ, Inst Biomed Informat, Taipei, Taiwan.
+   [Lan, Min-Fang; Tsai, Pei Yu] Natl Taiwan Univ Hosp, Dept Nursing, Taipei, Taiwan.
+   [Shen, Shan-Hsiang] Natl Taiwan Univ Sci & Technol, Dept Comp Sci & Informat Engn, Taipei, Taiwan.
+   [Chang, King Jen; Tsai, Ay-Jen] Taiwan Breast Canc Fdn, Taipei, Taiwan.
+   [Tai, Hao-Chih] Natl Taiwan Univ Hosp, Dept Surg, Div Plast Surg, Taipei, Taiwan.
+   [Tai, Hao-Chih] Natl Taiwan Univ, Coll Med, Dept Surg, Taipei, Taiwan.
+   [Dykes, Patricia C.] Brigham & Womens Hosp, Ctr Patient Safety Res & Practice, 75 Francis St, Boston, MA 02115 USA.
+   [Dykes, Patricia C.] Harvard Med Sch, Dept Med, Boston, MA 02115 USA.
+C3 National Yang Ming Chiao Tung University; National Yang Ming Chiao Tung
+   University; National Taiwan University; National Taiwan University
+   Hospital; National Taiwan University of Science & Technology; National
+   Taiwan University; National Taiwan University Hospital; National Taiwan
+   University; Harvard University; Brigham & Women's Hospital; Harvard
+   University; Harvard Medical School
+RP Hou, IC (corresponding author), Natl Yang Ming Univ, Sch Nursing, 155,Sec 2,Li Nong St, Taipei 11221, Taiwan.
+EM evita@ym.edu.tw
+OI Chang, King jen/0000-0001-9811-3422; Shen,
+   Shan-Hsiang/0000-0002-2865-6760; Lan, Min-Fang/0000-0001-5521-4100; Tai,
+   Hao-Chih/0000-0001-8155-3077
+FU National Taiwan University of Science and Technology and National Yang
+   Ming University Joint Research Program (NTUST-NYMU; 2017-2018:
+   Developing personal mobile apps for women with breast cancer)
+   [NTUST-NYMU-106-04]
+FX This study was funded by the National Taiwan University of Science and
+   Technology and National Yang Ming University Joint Research Program
+   (NTUST-NYMU; 2017-2018: Developing personal mobile apps for women with
+   breast cancer, NTUST-NYMU-106-04). The authors thank all team members
+   engaged in this research and the TBCF.
+NR 46
+TC 24
+Z9 25
+U1 7
+U2 38
+PU JMIR PUBLICATIONS, INC
+PI TORONTO
+PA 130 QUEENS QUAY East, Unit 1100, TORONTO, ON M5A 0P6, CANADA
+SN 2291-5222
+J9 JMIR MHEALTH UHEALTH
+JI JMIR mHealth uHealth
+PD APR 30
+PY 2020
+VL 8
+IS 4
+AR e15780
+DI 10.2196/15780
+PG 15
+WC Health Care Sciences & Services; Medical Informatics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Health Care Sciences & Services; Medical Informatics
+GA LJ0VL
+UT WOS:000529891900001
+PM 32352390
+OA Green Published, gold
+DA 2024-01-21
+ER
+
+PT J
+AU Dincelli, E
+   Chengalur-Smith, I
+AF Dincelli, Ersin
+   Chengalur-Smith, InduShobha
+TI Choose your own training adventure: designing a gamified SETA artefact
+   for improving information security and privacy through interactive
+   storytelling
+SO EUROPEAN JOURNAL OF INFORMATION SYSTEMS
+LA English
+DT Article
+DE Gamification; security education; training; awareness; SETA; online
+   self-disclosure; design science; design artefact; storytelling
+ID SOCIAL NETWORKING SITES; SELF-DISCLOSURE; SCIENCE RESEARCH; MECHANICAL
+   TURK; SYSTEMS; GAMIFICATION; AWARENESS; BEHAVIOR; IMPACT; SATISFACTION
+AB Online self-disclosure (OSD) on social networking sites can leave individuals and organisations vulnerable to security threats. Following a design science research (DSR) method, we created a gamified, "choose your own adventure" style security education, training, and awareness (SETA) artefact using two formats: text and visual. Both artefacts were designed to identify the security threats that trainees are most susceptible to, debrief them about the threat and its potential consequences, and facilitate behaviour change by letting trainees re-evaluate their decisions. Using a longitudinal randomised controlled experiment, we compared these two artefacts to no intervention and traditional security warning emails by assessing both instrumental (changes in attitudes, intentions, and OSD behaviour) and experiential (memorability and user experience) outcomes. Our survey of 1,718 employees showed that the text-based artefact was better at improving instrumental outcomes, and the visual-based artefact was better at improving experiential outcomes. This study provides a more granular understanding of the linkages between technology artefacts and human experiences through the application of design science thinking. The findings contribute to DSR by developing design principles, testable propositions, and realistic performance evaluation metrics for gamified SETA artefacts, and present practical recommendations for regulating employees' information security and privacy behaviours inside and outside the workplace.
+C1 [Dincelli, Ersin] Univ Colorado, Informat Syst, Denver, CO 80202 USA.
+   [Chengalur-Smith, InduShobha] SUNY Albany, Informat Syst & Business Analyt, Albany, NY 12222 USA.
+C3 University of Colorado System; University of Colorado Denver; State
+   University of New York (SUNY) System; State University of New York
+   (SUNY) Albany
+RP Dincelli, E (corresponding author), Univ Colorado, Informat Syst, Denver, CO 80202 USA.
+EM ersin.dincelli@ucdenver.edu
+OI Dincelli, Ersin/0000-0002-8773-4714
+FU Office of Research Services at the University of Colorado Denver
+FX We are grateful for the research funding provided by the Office of
+   Research Services at the University of Colorado Denver to support this
+   study. We appreciate the feedback we received on portions of this work
+   from Izak Benbasat and H. Raghav Rao at the International Conference on
+   Information Systems Doctoral Consortium (2018) and Anthony Vance, Ryan
+   Wright, Jason Thatcher, and Monica Tremblay at the pre-AMCIS MIS
+   Quarterly Author Development Workshop (2019). We are also grateful for
+   the constructive feedback provided by Dawn Gregg, Alper Yayla, and Xin
+   Zhou. Finally, we greatly appreciate the development and support we
+   received from the senior editor, Paul Benjamin Lowry, and the work of
+   the anonymous review team, in significantly improving this paper.
+NR 129
+TC 23
+Z9 29
+U1 12
+U2 96
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0960-085X
+EI 1476-9344
+J9 EUR J INFORM SYST
+JI Eur. J. Inform. Syst.
+PD NOV 1
+PY 2020
+VL 29
+IS 6
+SI SI
+BP 669
+EP 687
+DI 10.1080/0960085X.2020.1797546
+EA AUG 2020
+PG 19
+WC Computer Science, Information Systems; Information Science & Library
+   Science; Management
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science; Business &
+   Economics
+GA PI9CF
+UT WOS:000560479900001
+OA hybrid, Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Zhou, ZB
+   Sun, LY
+   Zhang, YY
+   Liu, XH
+   Gong, Q
+AF Zhou, Zhibin
+   Sun, Lingyun
+   Zhang, Yuyang
+   Liu, Xuanhui
+   Gong, Qing
+TI ML Lifecycle Canvas: Designing Machine Learning-Empowered UX with
+   Material Lifecycle Thinking
+SO HUMAN-COMPUTER INTERACTION
+LA English
+DT Article
+DE Design method; machine learning; user experience; design tool
+ID INTELLIGENCE; AUTOMATION; COMPLEX; TRUST
+AB As a particular type of artificial intelligence technology, machine learning (ML) is widely used to empower user experience (UX). However, designers, especially the novice designers, struggle to integrate ML into familiar design activities because of its ever-changing and growable nature. This paper proposes a design method called Material Lifecycle Thinking (MLT) that considers ML as a design material with its own lifecycle. MLT encourages designers to regard ML, users, and scenarios as three co-creators who cooperate in creating ML-empowered UX. We have developed ML Lifecycle Canvas (Canvas), a conceptual design tool that incorporates visual representations of the co-creators and ML lifecycle. Canvas guides designers to organize essential information for the application of MLT. By involving design students in the "research through design" process, the development of Canvas was iterated through its application to design projects. MLT and Canvas have been evaluated in design workshops, with completed proposals and evaluation results demonstrating that our work is a solid step forward in bridging the gap between UX and ML.
+C1 [Zhou, Zhibin; Sun, Lingyun; Liu, Xuanhui; Gong, Qing] Zhejiang Univ, Int Design Inst, Hangzhou, Peoples R China.
+   [Zhou, Zhibin; Sun, Lingyun; Zhang, Yuyang; Gong, Qing] Key Lab Design Intelligence & Digital Creat Zheji, Hangzhou, Peoples R China.
+   [Zhou, Zhibin; Sun, Lingyun; Zhang, Yuyang; Liu, Xuanhui; Gong, Qing] Zhejiang Univ, Int Design Inst, Hangzhou, Peoples R China.
+C3 Zhejiang University; Zhejiang University
+RP Sun, LY (corresponding author), Key Lab Design Intelligence & Digital Creat Zheji, Hangzhou, Peoples R China.
+EM sunly@zju.edu.cn
+RI , 龚卿GongQing/AAP-2841-2020; Zhao, Yi/JFA-7988-2023; Gong,
+   Qing/AAZ-8332-2020
+OI Zhou, Zhibin/0000-0001-9545-3763; Gong, Qing/0000-0001-5032-8539
+FU National Natural Science Foundation of China [61672451]; China
+   Postdoctoral Science Foundation [2018M630658]; Zhejiang Provincial Key
+   Research and Development Plan of Zhejiang Province [2019C03137];
+   National Science and Technology Innovation 2030 Major Project of the
+   Ministry of Science and Technology of China [2018AAA0100703]
+FX Project supported by the National Natural Science Foundation of China
+   (No. 61672451), the China Postdoctoral Science Foundation (2018M630658),
+   Zhejiang Provincial Key Research and Development Plan of Zhejiang
+   Province (No. 2019C03137), and the National Science and Technology
+   Innovation 2030 Major Project of the Ministry of Science and Technology
+   of China (2018AAA0100703).
+NR 62
+TC 13
+Z9 13
+U1 5
+U2 56
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0737-0024
+EI 1532-7051
+J9 HUM-COMPUT INTERACT
+JI Hum.-Comput. Interact.
+PD NOV 1
+PY 2020
+VL 35
+IS 5-6
+BP 362
+EP 386
+DI 10.1080/07370024.2020.1736075
+EA MAY 2020
+PG 25
+WC Computer Science, Cybernetics; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA NF1QA
+UT WOS:000532103800001
+DA 2024-01-21
+ER
+
+PT J
+AU Dickes, AC
+   Farris, AV
+   Sengupta, P
+AF Dickes, Amanda Catherine
+   Farris, Amy Voss
+   Sengupta, Pratim
+TI Sociomathematical Norms for Integrating Coding and Modeling with
+   Elementary Science: A Dialogical Approach
+SO JOURNAL OF SCIENCE EDUCATION AND TECHNOLOGY
+LA English
+DT Article
+DE Coding; Modeling; Elementary science; Computational thinking;
+   Sociomathematical norms; Science education
+ID COMPUTATIONAL THINKING; MATHEMATICS; K-12; DISTRICT; STATE
+AB In recent years, the field of education has challenged researchers and practitioners to incorporate computing as an essential focus of K-12 STEM education. Integrating computing within K-12 STEM supports learners of all ages in codeveloping and using computational thinking in existing curricular contexts alongside practices essential for developing mathematical and scientific expertise. In this paper, we present findings from a design-based, microgenetic study in which an agent-based programming and computational modeling platform-ViMAP-was integrated with existing elementary science and math curricula through lessons co-designed and taught by the classroom teacher across a period of seven months. We present a dialogical re-positioning of coding, where disciplinarily grounded meanings of code emerge through the construction of computational utterances--i.e., computer models as well as complementary conversations and physical models that serve as mathematical and scientific explanations--through the use of socio-mathematical norms.
+C1 [Dickes, Amanda Catherine] Gulf Maine Res Inst, Portland, ME 04101 USA.
+   [Farris, Amy Voss] Penn State Univ, University Pk, PA 16802 USA.
+   [Sengupta, Pratim] Univ Calgary, Werklund Sch Educ, Calgary, AB, Canada.
+C3 Gulf of Maine Research Institute; Pennsylvania Commonwealth System of
+   Higher Education (PCSHE); Pennsylvania State University; Pennsylvania
+   State University - University Park; University of Calgary
+RP Dickes, AC (corresponding author), Gulf Maine Res Inst, Portland, ME 04101 USA.
+EM adickes@gmri.org
+OI Farris, Amy/0000-0002-9081-3480
+FU US National Science Foundation (NSF CAREER Award) [1150230]; Imperial
+   Foundation (Canada); Direct For Computer & Info Scie & Enginr; Office of
+   Advanced Cyberinfrastructure (OAC) [1150230] Funding Source: National
+   Science Foundation
+FX This project was partially supported by US National Science Foundation
+   (NSF CAREER Award #1150230) and funds from the Imperial Foundation
+   (Canada).
+NR 58
+TC 19
+Z9 20
+U1 5
+U2 62
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1059-0145
+EI 1573-1839
+J9 J SCI EDUC TECHNOL
+JI J. Sci. Educ. Technol.
+PD FEB
+PY 2020
+VL 29
+IS 1
+SI SI
+BP 35
+EP 52
+DI 10.1007/s10956-019-09795-7
+EA JAN 2020
+PG 18
+WC Education & Educational Research; Education, Scientific Disciplines
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA KT1TR
+UT WOS:000515636000001
+DA 2024-01-21
+ER
+
+PT J
+AU Cataldo, TT
+   Buhler, AG
+   Faniel, IM
+   Brannon, B
+   Connaway, LS
+   Cyr, C
+   Langer, K
+   Hood, EM
+   Valenza, J
+   Elrod, R
+   Graff, RA
+   Putnam, SR
+   Howland, S
+AF Cataldo, Tara Tobin
+   Buhler, Amy G.
+   Faniel, Ixchel M.
+   Brannon, Britanny
+   Connaway, Lynn Silipigni
+   Cyr, Christopher
+   Langer, Kailey
+   Hood, Erin M.
+   Valenza, Joyce
+   Elrod, Rachael
+   Graff, Randy A.
+   Putnam, Samuel R.
+   Howland, Summer
+TI Mixed methods data collection using simulated Google results:
+   reflections on the methods of a point-of-selection behaviour study
+SO INFORMATION RESEARCH-AN INTERNATIONAL ELECTRONIC JOURNAL
+LA English
+DT Article
+ID INFORMATION BEHAVIOR; LIBRARY
+AB Introduction. A multi-institutional, grant-funded project employed mixed methods to study 175 fourth-grade through graduate school students' point-of-selection behaviour. The method features the use of simulated search engine results pages to facilitate data collection.
+   Method. Student participants used simulated Google results pages to select resources for a hypothetical school project. Quantitative data on participants' selection behaviour and qualitative data from their think-aloud protocols were collected. A questionnaire and interviews were used to collect data on participants' backgrounds and online research experiences.
+   Analysis. This paper reflects on the data collection methods and highlights opportunities for data analysis. The ability to analyse data both qualitatively and quantitatively increases the rigor and depth of findings.
+   Results. The simulation created a realistic yet controlled environment that ensures the comparability of data within and across a wide range of educational stages. Combining data on participants' behaviour, thoughts and characteristics provides a more complete picture of factors influencing online resource selection.
+   Conclusions. Using simulated results pages in combination with multiple data collection methods enables analyses that create deeper knowledge of participants' information behaviour. Such a complicated research design requires extensive time, expertise and coordination to execute.
+C1 [Cataldo, Tara Tobin] Univ Florida, George A Smathers Lib, Gainesville, FL 32611 USA.
+   [Buhler, Amy G.] Univ Florida, Marston Sci Lib, Gainesville, FL 32611 USA.
+   [Faniel, Ixchel M.] OCLC, Dublin, OH USA.
+   [Brannon, Britanny; Cyr, Christopher; Hood, Erin M.] OCLC Res, Dublin, OH USA.
+   [Connaway, Lynn Silipigni] OCLC Res, Lib Trends & User Res, Dublin, OH USA.
+   [Langer, Kailey; Howland, Summer] Univ Florida, Gainesville, FL 32611 USA.
+   [Valenza, Joyce] Rutgers State Univ, Sch Commun & Informat, New Brunswick, NJ USA.
+   [Valenza, Joyce] Sch Lib Concentrat, New Brunswick, NJ USA.
+   [Elrod, Rachael] Univ Florida, George A Smathers Lib, Dept Lib, Gainesville, FL 32611 USA.
+   [Elrod, Rachael] Univ Florida, George A Smathers Lib, Educ Lib, Gainesville, FL 32611 USA.
+   [Graff, Randy A.] Univ Florida, Hlth Sci Ctr, Educ Technol, Gainesville, FL 32611 USA.
+   [Putnam, Samuel R.] Univ Florida, Marston Sci Lib, Made UF, Gainesville, FL 32611 USA.
+C3 State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; State University
+   System of Florida; University of Florida; Rutgers System; Rutgers New
+   Brunswick; State University System of Florida; University of Florida;
+   State University System of Florida; University of Florida; State
+   University System of Florida; University of Florida; State University
+   System of Florida; University of Florida
+RP Cataldo, TT (corresponding author), Univ Florida, George A Smathers Lib, Gainesville, FL 32611 USA.
+EM ttobin@ufl.edu; abuhler@ufl.edu; fanieli@oclc.org; brannonb@oclc.org;
+   connawal@oclc.org; cyrc@oclc.org; kaileylanger@ufl.edu;
+   joyce.valenza@rutgers.edu; relrod@ufl.edu; rgraff@ufl.edu;
+   srputnam@ufl.edu
+RI Hood, Erin/GVS-3276-2022; Cataldo, Tara T/I-2225-2013; /AAE-2725-2022;
+   Buhler, Amy/GPP-1488-2022; Putnam, Samuel R/B-9760-2017
+OI Hood, Erin/0000-0003-4449-3719; Cataldo, Tara T/0000-0003-4569-6374;
+   /0000-0001-7047-260X; Putnam, Samuel R/0000-0002-5521-4546; Elrod,
+   Ed.D., Rachael/0000-0002-1840-4789
+FU Institute of Museum and Library Services (IMLS) [LG-81-15-0155]
+FX This project was made possible in part by the Institute of Museum and
+   Library Services (IMLS) Grant Project LG-81-15-0155.
+NR 34
+TC 4
+Z9 4
+U1 0
+U2 5
+PU UNIV SHEFFIELD DEPT INFORMATION STUDIES
+PI SHEFFIELD
+PA UNIV SHEFFIELD, WESTERN BANK, SHEFFIELD S10 2TN, S YORKS, ENGLAND
+SN 1368-1613
+J9 INFORM RES
+JI Inf. Res.
+PD DEC
+PY 2020
+VL 25
+IS 4
+AR 881
+DI 10.47989/irpaper881
+PG 22
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA PY0ZI
+UT WOS:000611778100044
+OA gold
+DA 2024-01-21
+ER
+
+PT J
+AU Uzumcu, O
+   Bay, E
+AF Uzumcu, Ozlem
+   Bay, Erdal
+TI The effect of computational thinking skill program design developed
+   according to interest driven creator theory on prospective teachers
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE Computational thinking; Twenty-first century skill; IDC theory;
+   Unplugged activities; Program design
+ID FRAMEWORK; K-12
+AB It is likely to observe that the increase in data and the interrelated challenges in digital age complicates the problems to be encountered. Therefore, unprecedented problem-solving skills have become inevitable. Though dating back to old times, computational thinking skill is defined as a recent skill area that is required by everybody, that can be used to solve the aforementioned complex problems, and that is included in international standards and training programs. In this study, it was aimed to improve computational thinking skills of prospective teachers. In order to do this, a program design which includes contents that prospective theachers can use in daily life and professional life has been developed. This program, which consists mostly of unplugged activities, also includes computer aided and robotic activities. A total of 11 voluntary prospective teachers (7 women and 4 men), who were in their 3rd year of the 4 year education in the 2017-2018 fall semester and did not attend to any programming or computational thinking education training before, participated in the study. In the first application, a 40-h program was carried out with five prospective teachers, while in the second application, an updated 52-h program was carried out with six prospective teachers. A skill test was developed, and applied to measure prospective teachers' computational thinking skills before and after the prepared program. Moreover, at the end of the training, they were asked to preapare graduation projects and their perspectives on education were examined. It has been observed that the program applied to prospective primary education teachers, who did not take any lessons like programming etc. before, was effective according to the computational thinking related skill tests and their graduation projects. It has been also observed in prospective primary education teachers that their thinking skills such as problem solving and questioning were improved and they could reflect their acquired knowledge and skills to their daily and professional life.
+C1 [Uzumcu, Ozlem] Hasan Kalyoncu Univ, Fac Educ, Dept Primary Educ Teaching, Gaziantep, Turkey.
+   [Bay, Erdal] Gaziantep Islam Sci & Technol Univ, Dept Educ Sci, Gaziantep, Turkey.
+C3 Hasan Kalyoncu University
+RP Uzumcu, O (corresponding author), Hasan Kalyoncu Univ, Fac Educ, Dept Primary Educ Teaching, Gaziantep, Turkey.
+EM ozlem.uzumcu@hku.edu.tr
+RI bay, erdal/HPG-9212-2023; Uzumcu, Ozlem/AAA-2544-2021; Bay,
+   Erdal/AAA-3751-2021
+OI Uzumcu, Ozlem/0000-0002-0589-5312; 
+NR 53
+TC 10
+Z9 11
+U1 5
+U2 52
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD JAN
+PY 2021
+VL 26
+IS 1
+BP 565
+EP 583
+DI 10.1007/s10639-020-10268-3
+EA JUL 2020
+PG 19
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA PS4KZ
+UT WOS:000547789600005
+DA 2024-01-21
+ER
+
+PT J
+AU Avdiji, H
+   Elikan, D
+   Missonier, S
+   Pigneur, Y
+AF Avdiji, Hazbi
+   Elikan, Dina
+   Missonier, Stephanie
+   Pigneur, Yves
+TI A Design Theory for Visual Inquiry Tools
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SYSTEMS
+LA English
+DT Article
+DE Strategic Management Problem; Visual Inquiry Tool; Joint Inquiry; Design
+   Theory; Design Science Research; Design Knowledge Accumulation; Design
+   Knowledge Theorization; Multiple-Project Analysis
+ID SCIENCE RESEARCH; BUSINESS MODELS; CO-DESIGN; THINKING; MANAGEMENT;
+   KNOWLEDGE; OBJECTS; METHODOLOGY; FRAMEWORK; PRODUCT
+AB The Business Model Canvas project cleared the path for the development of a new tool type that we refer to as visual inquiry tools. Such tools build on design thinking techniques to allow management practitioners to jointly inquire into specific strategic management problems. As the interest in and the emergence of visual inquiry tools gain momentum, it is important to formalize the design knowledge that future designers can build on to develop such tools. Thus, we propose a design theory for visual inquiry tools based on the design knowledge accumulated within and across three projects: the Business Model Canvas, the Value Proposition Canvas, and the Team Alignment Map. We outline the design principles (among others) that should be followed for developing visual inquiry tools for other strategic management problems. Our study addresses the lack of guidance in the development of visual inquiry tools and the lack of methodological guidance in design science research on how to theorize and formalize knowledge across multiple projects. We provide a methodological process for analyzing multiple-project data by bridging methodological insights from design science research and qualitative methods from the social sciences.
+C1 [Avdiji, Hazbi] Univ St Gallen, St Gallen, Switzerland.
+   [Elikan, Dina; Pigneur, Yves] Univ Lausanne, Lausanne, Switzerland.
+   [Missonier, Stephanie] Univ Lausanne, Digital Strategy & Project Management, Lausanne, Switzerland.
+C3 University of St Gallen; University of Lausanne; University of Lausanne
+RP Avdiji, H (corresponding author), Univ St Gallen, St Gallen, Switzerland.
+EM hazbi.avdiji@gmail.com; dina.elikan@gmail.com;
+   stephanie.missonier@unil.ch; yves.pigneur@unil.ch
+NR 110
+TC 18
+Z9 18
+U1 3
+U2 29
+PU ASSOC INFORMATION SYSTEMS
+PI ATLANTA
+PA GEORGIA STATE UNIV, 35 BROAD STREET, STE 916-917, ATLANTA, GA 30303 USA
+SN 1536-9323
+EI 1558-3457
+J9 J ASSOC INF SYST
+JI J. Assoc. Inf. Syst.
+PY 2020
+VL 21
+IS 3
+BP 695
+EP 734
+DI 10.17705/1jais.00617
+PG 40
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA LS3JU
+UT WOS:000536285100008
+OA Green Published
+DA 2024-01-21
+ER
+
+PT J
+AU Choi, B
+   Ward, A
+   Li, Y
+   Arguello, J
+   Capra, R
+AF Choi, Bogeum
+   Ward, Austin
+   Li, Yuan
+   Arguello, Jaime
+   Capra, Robert
+TI The Effects of Task Complexity on the Use of Different Types of
+   Information in a Search Assistance Tool
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+LA English
+DT Article
+DE Cognitive task complexity; search assistance; search behaviors
+ID DIFFICULTY; FRAMEWORK; BEHAVIOR; THINKING; CONTEXT; SEEKING
+AB In interactive information retrieval, an important research question is: How do task characteristics influence users' needs and behaviors? We report on a laboratory study (N = 32) that investigated the effects of task complexity on the types of information used by participants while searching. Participants completed tasks of four complexity levels and had access to four different types of information provided through a search-assistance tool referred to as the InfoBoxes (IB). The IB tool presented the following types of task-related information (info-types) on different tabs: (1) facts, (2) concepts, (3) opinions, and (4) insights. Facts (and opinions) were defined as objective (and subjective) statements relevant to the task. Concepts were defined as important ideas, principles, or entities related to the task. Insights were defined as tips or advice about the task. The study investigated six research questions that considered the effects of task complexity on: (RQ1) participants' pre-/post-task perceptions about useful info-types; (RQ2) use of different info-types during the task; (RQ3) motivations for engaging with the IB; (RQ4) gains from using it; (RQ5) the search stage participants were in while engaging with the IB; and (RQ6) motivations for sometimes avoiding the IB. Our results suggest that task complexity influenced all six types of outcomes. We discuss implications of our results for designing search assistance tools and systems that favor certain types of content based on task characteristics.
+C1 [Choi, Bogeum; Ward, Austin; Li, Yuan; Arguello, Jaime; Capra, Robert] Univ North Carolina Chapel Hill, Sch Informat & Lib Sci, Manning Hall,216 Lenoir Dr, Chapel Hill, NC 27599 USA.
+C3 University of North Carolina School of Medicine; University of North
+   Carolina; University of North Carolina Chapel Hill
+RP Choi, B (corresponding author), Univ North Carolina Chapel Hill, Sch Informat & Lib Sci, Manning Hall,216 Lenoir Dr, Chapel Hill, NC 27599 USA.
+EM choiboge@unc.edu; austinrw@unc.edu; yuan_li@unc.edu; jarguello@unc.edu;
+   rcapra@unc.edu
+FU NSF [IIS-1718295]
+FX This work was supported by NSF grant IIS-1718295. Any opinions,
+   findings, conclusions, and recommendations expressed in this article are
+   those of the authors and do not necessarily reflect the views of the
+   sponsor.
+NR 51
+TC 7
+Z9 8
+U1 10
+U2 22
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 1046-8188
+EI 1558-2868
+J9 ACM T INFORM SYST
+JI ACM Trans. Inf. Syst.
+PD FEB
+PY 2020
+VL 38
+IS 1
+AR 9
+DI 10.1145/3371707
+PG 28
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA LO7IO
+UT WOS:000533801900009
+OA Bronze
+DA 2024-01-21
+ER
+
+PT J
+AU Mueller, JF
+   Taylor, HK
+   Brakke, K
+   Drysdale, M
+   Kelly, K
+   Levine, GM
+   Ronquillo-Adachi, J
+AF Mueller, Jon F.
+   Taylor, Helen K.
+   Brakke, Karen
+   Drysdale, Mike
+   Kelly, Kiesa
+   Levine, Gary M.
+   Ronquillo-Adachi, Jaclyn
+TI Assessment of Scientific Inquiry and Critical Thinking: Measuring APA
+   Goal 2 Student Learning Outcomes
+SO TEACHING OF PSYCHOLOGY
+LA English
+DT Article
+DE assessment; student learning outcomes; scientific reasoning; critical
+   thinking; information literacy; research design
+ID INTRODUCTORY PSYCHOLOGY; PSEUDOSCIENCE; UNDERGRADUATE; LANGUAGE
+AB Goal 2 of theAPA Goals for Undergraduate Major in Psychology, Scientific Inquiry and Critical Thinking, addresses the development of scientific reasoning and problem-solving, including effective research methods, in undergraduate psychology students. These skills serve as the foundation of not only introductory courses but also the entire psychology curriculum. In this article, we address why these skills are critical to help students interpret information and assess claims and review the current practice of measuring student reasoning in this domain. The reach of Goal 2 is broad, including the application of scientific reasoning to interpret psychological phenomena, the demonstration of psychology information literacy, the interpretation and execution of basic psychological research, and an understanding of sociocultural influences in scientific inquiry. We discuss the value of both formative and summative assessments in this area, offer examples of assessment tools currently in use, and provide a list of nationally normed assessments in critical thinking and scientific reasoning. We conclude with a discussion of limitations in current assessment practices and suggest possible future directions.
+C1 [Mueller, Jon F.] North Cent Coll, Dept Psychol, 30 Brainard St, Naperville, IL 60540 USA.
+   [Taylor, Helen K.] Bellevue Coll, Bellevue, WA USA.
+   [Brakke, Karen] Spelman Coll, Atlanta, GA 30314 USA.
+   [Drysdale, Mike] Vincennes Univ, Vincennes, IN USA.
+   [Kelly, Kiesa] Tennessee State Univ, Nashville, TN 37203 USA.
+   [Levine, Gary M.] Edinboro Univ Penn, Edinboro, PA USA.
+   [Ronquillo-Adachi, Jaclyn] Cerritos Coll, Norwalk, CA USA.
+C3 Spelman College; Tennessee State University; Pennsylvania State System
+   of Higher Education (PASSHE); Edinboro University
+RP Mueller, JF (corresponding author), North Cent Coll, Dept Psychol, 30 Brainard St, Naperville, IL 60540 USA.
+EM jfmueller@noctrl.edu
+RI Brakke, Karen/I-5164-2019
+FU National Science Foundation (Division of Undergraduate Education)
+   [1622982]; University of Wisconsin-Green Bay; APA's Board of Educational
+   Affairs; Society for the Teaching of Psychology; Psi Chi; Psi Beta;
+   Direct For Education and Human Resources; Division Of Undergraduate
+   Education [1622982] Funding Source: National Science Foundation
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: Additional
+   resources were provided by grants from the National Science Foundation
+   (Division of Undergraduate Education, award number 1622982), the
+   University of Wisconsin-Green Bay, APA's Board of Educational Affairs,
+   Society for the Teaching of Psychology, Psi Chi, and Psi Beta.
+NR 29
+TC 4
+Z9 5
+U1 5
+U2 54
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0098-6283
+EI 1532-8023
+J9 TEACH PSYCHOL
+JI Teach. Psychol.
+PD OCT
+PY 2020
+VL 47
+IS 4
+SI SI
+BP 274
+EP 284
+DI 10.1177/0098628320945114
+PG 11
+WC Education & Educational Research; Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Psychology
+GA NN1GU
+UT WOS:000568539500004
+DA 2024-01-21
+ER
+
+PT J
+AU Xu, LD
+AF Xu, Li Da
+TI The contribution of systems science to Industry 4.0
+SO SYSTEMS RESEARCH AND BEHAVIORAL SCIENCE
+LA English
+DT Article
+DE Fourth Industrial Revolution; industrial information integration;
+   industrial integration; Industry 4; 0; systems; systems engineering;
+   systems science; systems theory
+ID TECHNICAL SOLUTIONS; DESIGN; THINKING; FUTURE; IMPLEMENTATION;
+   INTEGRATION; COMPONENTS; FRAMEWORK; MODEL
+AB Industrie 4.0, also called Industry 4.0, represents the current trend of manufacturing industry characterized by high level of automation, industrial integration, and industrial information integration. It mainly includes enabling technologies such as the Internet of Things (IoT), cyber-physical systems (CPS), cloud computing, industrial integration, industrial information integration, and other technologies. Systems science has been emerged and well developed since the second half of the twentieth century. From 1940s until now, systems science has been called systems science, systems engineering, systems theory, cybernetics, systems analysis, systems methodology, systems approach, and systems thinking. Since its emergence, a wealth of research has produced an astonishing array of theoretical results and empirical insights, and a large suite of methods and techniques. Systems science has been continuously, widely, and successfully applied to many subjects in natural science and social sciences. This paper aims at discussing the potential contribution of systems science to Industry 4.0. As we approach the era of Fourth Industrial Revolution, this paper points out that systems science is a necessity to deal with the overwhelming systems complexity in Industry 4.0 and the surrounding industrial ecosystem.
+C1 [Xu, Li Da] Old Dominion Univ, Norfolk, VA 23529 USA.
+C3 Old Dominion University
+RP Xu, LD (corresponding author), Old Dominion Univ, Norfolk, VA 23529 USA.
+EM lxu@odu.edu
+RI xu, li/GNH-3667-2022
+OI LAPA, ANTONIO/0000-0002-5954-5115
+NR 96
+TC 60
+Z9 60
+U1 3
+U2 43
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1092-7026
+EI 1099-1743
+J9 SYST RES BEHAV SCI
+JI Syst. Res. Behav. Sci.
+PD JUL
+PY 2020
+VL 37
+IS 4
+SI SI
+BP 618
+EP 631
+DI 10.1002/sres.2705
+EA JUN 2020
+PG 14
+WC Management; Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Social Sciences - Other Topics
+GA MR5RV
+UT WOS:000541252300001
+DA 2024-01-21
+ER
+
+PT J
+AU Worosz, MR
+   Farrell, B
+   Jenda, CA
+AF Worosz, Michelle R.
+   Farrell, Bridget
+   Jenda, Claudine A.
+TI Teaching Critical Thinking via the "Wicked Problem" of Food Insecurity
+SO PORTAL-LIBRARIES AND THE ACADEMY
+LA English
+DT Article
+ID URBAN HEALTH DISPARITIES; INFORMATION LITERACY; STUDENTS; SCIENCE;
+   FACULTY; PROJECT; DESIGN; US
+AB This article describes a project to engage sociology students in real-world research designed to foster critical thinking about food security. Faculty-librarian collaboration was an essential component. An open-ended questionnaire was administered to three classes at the end of the semester. Assessed were students' experiences gathering data and applying abstract concepts and theories to the case study. Students characterized their skill development, identified missing project components, and suggested improvements. These responses were assessed via a rubric to document three types of thinking: dualistic thinking, the belief that the problem has a right and wrong answer; multiplistic thinking, which recognizes uncertainty and multiple viewpoints to the problem; and systemic thinking, which understands the complexity of the problem and how interrelated factors cause it. Results show that the project helped students identify the complex processes and relationships that contribute to food insecurity.
+C1 [Worosz, Michelle R.] Auburn Univ, Dept Agr Econ & Rural Sociol, Rural Sociol, Auburn, AL 36849 USA.
+   [Worosz, Michelle R.] Auburn Univ, AUFSI Auburn Univ Food Syst Inst, Auburn, AL 36849 USA.
+   [Farrell, Bridget] Univ Denver, Lib Instruct & Reference Serv, Anderson Acad Commons, Denver, CO USA.
+   [Jenda, Claudine A.] Auburn Univ Lib, Auburn, AL USA.
+C3 Auburn University System; Auburn University; Auburn University System;
+   Auburn University; University of Denver
+RP Worosz, MR (corresponding author), Auburn Univ, Dept Agr Econ & Rural Sociol, Rural Sociol, Auburn, AL 36849 USA.; Worosz, MR (corresponding author), Auburn Univ, AUFSI Auburn Univ Food Syst Inst, Auburn, AL 36849 USA.
+EM mrw0016@auburn.edu; Bridget.farrell@du.edu; jendaca@auburn.edu
+OI Worosz, Michelle/0000-0003-4919-0477
+NR 65
+TC 4
+Z9 5
+U1 0
+U2 4
+PU JOHNS HOPKINS UNIV PRESS
+PI BALTIMORE
+PA JOURNALS PUBLISHING DIVISION, 2715 NORTH CHARLES ST, BALTIMORE, MD
+   21218-4363 USA
+SN 1531-2542
+EI 1530-7131
+J9 PORTAL-LIBR ACAD
+JI Portal-Libr. Acad
+PD OCT
+PY 2020
+VL 20
+IS 4
+BP 621
+EP 653
+DI 10.1353/pla.2020.0030
+PG 33
+WC Information Science & Library Science
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science
+GA PY0NJ
+UT WOS:000611746600005
+DA 2024-01-21
+ER
+
+PT J
+AU Carbonell-Carrera, C
+   Saorin, JL
+   Hess-Medler, S
+AF Carbonell-Carrera, Carlos
+   Luis Saorin, Jose
+   Hess-Medler, Stephany
+TI A Geospatial Thinking Multiyear Study
+SO SUSTAINABILITY
+LA English
+DT Article
+DE geospatial thinking; geospatial tasks; sustainability education; 3D
+   technologies; spatial data infrastructure
+ID SPATIAL THINKING; SUSTAINABLE DEVELOPMENT; DATA INFRASTRUCTURE;
+   INFORMATION; SKILLS; GIS; ENVIRONMENT; EDUCATION; DESIGN
+AB In the field of environmental sustainability and landscape management, geospatial thinking is necessary. A good level of geospatial thinking is related to academic success in engineering degrees. It is relevant, therefore, to detect the possible deficiencies that university students may have in tasks related to geospatial thinking. This research presents the results of a 20142019 multiyear study with agricultural engineering students, in which seven geospatial tasks were analyzed. The statistical analysis shows that geospatial tasks related to slope, stream/water flow, visibility, and relief interpretation are the best at predicting the final course mark. The present research provides quantitative data on the efficiency that four technologies have to reinforce geospatial thinking focused on each task. Augmented Reality is an appropriate 3D technology for geospatial tasks related to route search, stream/water flow, and elevation points. SketchUp Make 2017 and Autodesk 123D Make showed their potential to solve tasks related to terrain slope and visibility analysis. Spatial Data Infrastructure has given the best results in geospatial tasks related to the photointerpretation of the relief and with topographic profiles of the terrain. Our findings will help teachers to select the most appropriate geospatial tasks to include in their courses.
+C1 [Carbonell-Carrera, Carlos] Univ La Laguna, Dept Tech & Projects Engn & Architecture, Area Cartog Geodet & Photogrammetry Engn, San Cristobal la Laguna 38204, Spain.
+   [Luis Saorin, Jose] Univ La Laguna, Dept Tech & Projects Engn & Architecture, Area Engn Graph, San Cristobal la Laguna 38204, Spain.
+   [Hess-Medler, Stephany] Univ La Laguna, Dept Clin Psychol, Psychobiol & Methodol, Area Methodol Behav Sci, San Cristobal la Laguna 38204, Spain.
+C3 Universidad de la Laguna; Universidad de la Laguna; Universidad de la
+   Laguna
+RP Carbonell-Carrera, C (corresponding author), Univ La Laguna, Dept Tech & Projects Engn & Architecture, Area Cartog Geodet & Photogrammetry Engn, San Cristobal la Laguna 38204, Spain.
+EM ccarbone@ull.edu.es; jlsaorin@ull.edu.es; sthess@ull.es
+RI Carbonell-Carrera, Carlos/F-4298-2017; Hess Medler, Stephany/O-3016-2013
+OI Carbonell-Carrera, Carlos/0000-0003-4733-1598; Hess Medler,
+   Stephany/0000-0002-0289-8796; saorin, Jose Luis/0000-0003-3240-3317
+NR 62
+TC 5
+Z9 5
+U1 7
+U2 34
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD JUN
+PY 2020
+VL 12
+IS 11
+AR 4586
+DI 10.3390/su12114586
+PG 15
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA MC6JX
+UT WOS:000543391800249
+OA Green Published, gold
+DA 2024-01-21
+ER
+
+PT J
+AU Sijtsema, SJ
+   Fogliano, V
+   Hageman, M
+AF Sijtsema, Siet J.
+   Fogliano, Vincenzo
+   Hageman, Madelinde
+TI Tool to Support Citizen Participation and Multidisciplinarity in Food
+   Innovation: Circular Food Design
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+LA English
+DT Article
+DE co-creation; food product development; design thinking; circular food
+   design; food system; multi disciplinary; visualization; creativity
+ID PRODUCT DEVELOPMENT; CONSUMER RESEARCH; DRIED FRUIT; CO-CREATION;
+   CONSUMPTION; PERCEPTION; ADOPTION; MODELS; HEALTH; POLISH
+AB Innovations are urgently required to transform toward a more circular food system in which the food production and processing is more sustainable and the dietary patterns of consumers are more healthy and sustainable. It is needed to be more innovative in a multidisciplinary and consumer oriented way. Therefore, this paper introduces circular food design model and presents some applications. This paper presents background information regarding relevant models of product development and combines approaches and insights from different disciplines, such as consumer and food science, all present in the food system. In addition, the linkage with design thinking is addressed. Moreover, research questions are presented focused on the identification, development and optimization phase with regard to agricultural production, food storage, processing, retail and consumption. This circular food design model can support a way of thinking that will lead to multidisciplinary and citizen participating in food product development. The added value of circular food design model is; first, the model stimulates a citizen participation approach in a creative way; second, the model supports communication and collaboration among all involved disciplines. The newly developed circular food design model visualizes an iterative approach meant to be a flexible and creative tool to structure the new food development in the different phases to support value creation in the food system in order to support its transition.
+C1 [Sijtsema, Siet J.] Wageningen Univ & Res, Wageningen Econ Res, Wageningen, Netherlands.
+   [Fogliano, Vincenzo] Wageningen Univ & Res, Food Qual & Design, Wageningen, Netherlands.
+   [Hageman, Madelinde] Studio Madelinde Hageman, Amsterdam, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Sijtsema, SJ (corresponding author), Wageningen Univ & Res, Wageningen Econ Res, Wageningen, Netherlands.
+EM siet.sijtsema@wur.nl
+RI fogliano, vincenzo/A-1419-2009
+OI fogliano, vincenzo/0000-0001-8786-9355; Sijtsema,
+   Siet/0000-0001-7599-559X
+FU European Commission under the Food, Agriculture and Fisheries, and
+   Biotechnology Theme for the 7th Framework Programme for Research and
+   Technological Development [289023]
+FX Part of the work leading to this article was carried out in the
+   Connect4Action project with the financial support of the European
+   Commission (289023) under the Food, Agriculture and Fisheries, and
+   Biotechnology Theme for the 7th Framework Programme for Research and
+   Technological Development.
+NR 43
+TC 10
+Z9 11
+U1 11
+U2 46
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+EI 2571-581X
+J9 FRONT SUSTAIN FOOD S
+JI Front. Sustain. Food Syst.
+PD NOV 27
+PY 2020
+VL 4
+AR 582193
+DI 10.3389/fsufs.2020.582193
+PG 12
+WC Food Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Food Science & Technology
+GA PC8WD
+UT WOS:000597278700001
+OA gold
+DA 2024-01-21
+ER
+
+PT J
+AU Lawrence, EE
+AF Lawrence, E. E.
+TI On the problem of oppressive tastes in the public library
+SO JOURNAL OF DOCUMENTATION
+LA English
+DT Article
+DE Readers' advisory; Diversity; Library ethics; Social justiced; Taste;
+   Feminist aesthetics; Democracy
+ID SOCIAL-JUSTICE; RESPONSIBILITY; DIVERSITY
+AB Purpose Contemporary adult readers' advisory aims to adhere to (what I term) a pure preference satisfaction model in which librarians provide nonjudgmental book recommendations that satisfy their patrons' aesthetic tastes rather than improve upon them. The purpose of this paper is to determine whether readers' advisors really ought to treat all such tastes as essentially benign, even when doing so may conflict with core commitments to diversity and social responsibility. Design/methodology/approach This paper utilizes a thought experiment to interrogate our intuitions regarding the practice of recommending recreational materials featuring marginalized protagonists. The author also draws on theoretical insights from feminist aesthetician A.W. Eaton's innovative work on taste in bodies to formulate argumentation addressing the ethical dilemma presented here. Findings Our reading tastes can, in fact, be oppressive, working to maintain unjust power relations that are often thought to be the product merely of bad beliefs. On the view advanced here, oppressive tastes function as real obstacles to collective self-governance because they systematically distort our judgments of the credibility, empathic accessibility, and fundamental worth of our fellow democratic citizens. Librarians' obligation to protect and promote democracy, therefore, provides practitioners with a crucial justification for recommending diverse books to all readers, even (and perhaps especially) those who actively disprefer them. Originality/value The paper illustrates how contemporary work in analytic (and specifically feminist) aesthetics can furnish LIS scholars with the intellectual resources to resolve political problems in the library. The author's analysis also lays the groundwork for further consideration of alternative ideals for readers' advisory that will capitalize on the service's educative and emancipatory potential.
+C1 [Lawrence, E. E.] Rutgers State Univ, Sch Commun & Informat, Dept Lib & Informat Sci, New Brunswick, NJ 08901 USA.
+C3 Rutgers System; Rutgers New Brunswick
+RP Lawrence, EE (corresponding author), Rutgers State Univ, Sch Commun & Informat, Dept Lib & Informat Sci, New Brunswick, NJ 08901 USA.
+EM e.e.lawrence@rutgers.edu
+OI Lawrence, E.E./0000-0001-5726-8460
+FU Eugene Garfield Doctoral Dissertation Fellowship
+FX The research leading to this paper was supported by a Eugene Garfield
+   Doctoral Dissertation Fellowship awarded by the Beta Phi Mu
+   International Honor Society.
+NR 57
+TC 6
+Z9 7
+U1 2
+U2 20
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0022-0418
+EI 1758-7379
+J9 J DOC
+JI J. Doc.
+PD SEP 14
+PY 2020
+VL 76
+IS 5
+BP 1091
+EP 1107
+DI 10.1108/JD-01-2020-0002
+EA FEB 2020
+PG 17
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA NC8BT
+UT WOS:000516587900001
+DA 2024-01-21
+ER
+
+PT J
+AU Sun, LH
+   Hu, LL
+   Yang, WP
+   Zhou, DH
+   Wang, XQ
+AF Sun, Lihui
+   Hu, Linlin
+   Yang, Weipeng
+   Zhou, Danhua
+   Wang, Xiaoqian
+TI STEM learning attitude predicts computational thinking skills among
+   primary school students
+SO JOURNAL OF COMPUTER ASSISTED LEARNING
+LA English
+DT Article
+DE computational thinking; learning attitude; primary school students;
+   scale validation; STEM
+ID INDIVIDUAL-DIFFERENCES; POSITIVE ATTITUDE; ROBOTICS; MOTIVATION;
+   VALIDITY; GAME; ACHIEVEMENT; RELIABILITY; LITERACY; DESIGN
+AB Computational thinking (CT) plays a vital role in the fields of science, technology, engineering and mathematics (STEM). However, whether students' learning attitude towards STEM is related to their CT skills remains unknown. Two studies were conducted to address this knowledge gap. In Study 1, we validated a newly developed STEM learning attitude scale among a sample of Chinese primary school students (N= 489). Exploratory and confirmatory factor analysis results revealed that the scale which consisted of three factors (mathematics, science and information technology) could sufficiently measure primary school students' STEM learning attitude in the current sample. In Study 2, we explored the association between students' STEM learning attitude and their CT skills. Evidence revealed that learning attitude towards STEM significantly predicted CT skills. We also found that girls had a more positive learning attitude towards STEM than boys, and the fourth grade might be the key period for the development of CT skills. Implications for promoting primary school students' STEM learning and CT skills were also discussed.
+C1 [Sun, Lihui; Hu, Linlin; Zhou, Danhua; Wang, Xiaoqian] Tianjin Univ, Sch Educ, 135 Yaguan Rd, Tianjin 300354, Peoples R China.
+   [Yang, Weipeng] Singapore Univ Social Sci, SR Nathan Sch Human Dev, Singapore 599494, Singapore.
+C3 Tianjin University; Singapore University of Social Sciences (SUSS)
+RP Sun, LH (corresponding author), Tianjin Univ, Sch Educ, 135 Yaguan Rd, Tianjin 300354, Peoples R China.
+EM sunlihui@tju.edu.cn
+RI Yang, Weipeng/M-8894-2019; Hu, Linlin/IUP-0378-2023
+OI Yang, Weipeng/0000-0002-8057-2863; Hu, Linlin/0000-0001-7833-6522; Sun,
+   Lihui/0000-0002-9188-9022
+FU National Social Science Foundation Youth Project in Pedagogy of China
+   [CCA190261]
+FX National Social Science Foundation Youth Project in Pedagogy of China,
+   Grant/Award Number: CCA190261
+NR 70
+TC 38
+Z9 38
+U1 30
+U2 195
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0266-4909
+EI 1365-2729
+J9 J COMPUT ASSIST LEAR
+JI J. Comput. Assist. Learn.
+PD APR
+PY 2021
+VL 37
+IS 2
+BP 346
+EP 358
+DI 10.1111/jcal.12493
+EA SEP 2020
+PG 13
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA QU6VZ
+UT WOS:000571840500001
+DA 2024-01-21
+ER
+
+PT J
+AU Zhang, PY
+   Soergel, D
+AF Zhang, Pengyi
+   Soergel, Dagobert
+TI Cognitive mechanisms in sensemaking: A qualitative user study
+SO JOURNAL OF THE ASSOCIATION FOR INFORMATION SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+ID INFORMATION EXTRACTION; MODEL; CONSTRUCTION; CLASSIFICATION; ONTOLOGY;
+   SCIENCE; SENSE
+AB Throughout an information search, a user needs to make sense of the information found to create an understanding. This requires cognitive effort that can be demanding. Building on prior sensemaking models and expanding them with ideas from learning and cognitive psychology, we examined the use of cognitive mechanisms during individual sensemaking. We conducted a qualitative user study of 15 students who searched for and made sense of information for business analysis and news writing tasks. Through the analysis of think-aloud protocols, recordings of screen movements, intermediate work products of sensemaking, including notes and concept maps, and final reports, we observed the use of 17 data-driven and structure-driven mechanisms for processing new information, examining individual concepts and relationships, and detecting anomalies. These cognitive mechanisms, as the basic operators that move sensemaking forward, provide in-depth understanding of how people process information to produce sense. Meaningful learning and sensemaking are closely related, so our findings apply to learning as well. Our results contribute to a better understanding of the sensemaking process-how people think-and this better understanding can inform the teaching of thinking skills and the design of improved sensemaking assistants and mind tools.
+C1 [Zhang, Pengyi] Peking Univ, Dept Informat Management, 5 Yiheyuan Rd, Beijing 100871, Peoples R China.
+   [Soergel, Dagobert] SUNY Buffalo, Grad Sch Educ, Dept Lib & Informat Studies, Buffalo, NY 14260 USA.
+C3 Peking University; State University of New York (SUNY) System; State
+   University of New York (SUNY) Buffalo
+RP Zhang, PY (corresponding author), Peking Univ, Dept Informat Management, 5 Yiheyuan Rd, Beijing 100871, Peoples R China.
+EM pengyi.zhang@pku.edu.cn; dsoergel@buffalo.edu
+FU Eugene Garfield Dissertation Fellowship; NSFC [71603012]
+FX This research was supported partially by the Eugene Garfield
+   Dissertation Fellowship. The first author also received support from the
+   NSFC Grant #71603012 for further analyzing the data.
+NR 73
+TC 7
+Z9 10
+U1 7
+U2 46
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 2330-1635
+EI 2330-1643
+J9 J ASSOC INF SCI TECH
+PD FEB
+PY 2020
+VL 71
+IS 2
+BP 158
+EP 171
+DI 10.1002/asi.24221
+PG 14
+WC Computer Science, Information Systems; Information Science & Library
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Information Science & Library Science
+GA JZ7GB
+UT WOS:000505275600003
+DA 2024-01-21
+ER
+
+PT J
+AU Brocklehurst, PR
+   Baker, SR
+   Langley, J
+AF Brocklehurst, Paul R.
+   Baker, Sarah R.
+   Langley, Joe
+TI Context and the evidence-based paradigm: The potential for participatory
+   research and systems thinking in oral health
+SO COMMUNITY DENTISTRY AND ORAL EPIDEMIOLOGY
+LA English
+DT Editorial Material
+DE complexity; evidence-based paradigm; implementation science;
+   participatory research; systems science
+ID INTERVENTIONS; PREVENTION; SERVICES; IMPROVE; SCIENCE; TRIAL
+AB The implementation of research evidence to promote oral health is critical, given the intransigent and emerging challenges for policymakers at a population level. Despite this, little attention has been paid to implementation research within the evidence-based paradigm. This is important as getting research evidence into clinical practice is not a linear path that consists of simple sequential steps. In this article, we argue that we need to consider a broader range of conceptual and methodological approaches to increase the value of information generated. This should be undertaken either in parallel with empirical and experimental designs, or in some cases, instead of. This is important if we are going to understand the complexity and contextual knowledge of the 'system', within which interventions are implemented. Involving key stakeholders alongside empirical and experimental designs is one helpful approach. Examples of these approaches include Patient and Public Involvement and the development of Core Outcome Sets, where the views of those that will be potentially affected by the research, are included. The use of theoretical frameworks and process evaluations alongside trials are also important, if they are fully integrated into the approach taken to address the research question. A more radical approach is using participatory designs and 'systems thinking'. Participatory approaches include subject matter 'experts by experience'. These include patients, their families, carers, healthcare professionals, services managers, policymakers, commissioners and researchers. Participatory approaches raise important questions about who facilitates the process, when it should happen and how the diverse actors become meaningfully engaged so that their involvement is active, democratic and ongoing. We argue that the issues of control, power and language are central to this and represent a paradigmatic shift to conventional approaches. Systems thinking captures the idea that public health problems commonly involve multiple interdependent and interconnected factors, which interact with each other dynamically. This approach challenges the simplicity of the hierarchy of evidence and linear sequential logic, when it does not account for context. In contrast, systems thinking accepts complexity de novo and emphasizes the need to understand the whole system rather than its individual component parts. We conclude with the idea that participatory and systems thinking help to unpack the diverse agents that are often involved in the generation and translation of evidence into clinical dental practice. It moves our conception of research away from a simple exchange between 'knowledge producers' and 'knowledge users' and raises both methodological and epistemological challenges.
+C1 [Brocklehurst, Paul R.] Bangor Univ, Bangor, Gwynedd, Wales.
+   [Baker, Sarah R.] Univ Sheffield, Sch Clin Dent, Sheffield, S Yorkshire, England.
+   [Langley, Joe] Sheffield Hallam Univ, Art & Design Res Ctr, Sheffield, S Yorkshire, England.
+C3 Bangor University; University of Sheffield; Sheffield Hallam University
+RP Baker, SR (corresponding author), Univ Sheffield, Sch Clin Dent, Sheffield, S Yorkshire, England.
+EM s.r.baker@sheffield.ac.uk
+OI Langley, Joe/0000-0002-9770-8720; Baker, Sarah/0000-0002-2861-451X
+NR 62
+TC 11
+Z9 13
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0301-5661
+EI 1600-0528
+J9 COMMUNITY DENT ORAL
+JI Community Dentist. Oral Epidemiol.
+PD FEB
+PY 2021
+VL 49
+IS 1
+BP 1
+EP 9
+DI 10.1111/cdoe.12570
+EA AUG 2020
+PG 9
+WC Dentistry, Oral Surgery & Medicine; Public, Environmental & Occupational
+   Health
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Dentistry, Oral Surgery & Medicine; Public, Environmental & Occupational
+   Health
+GA PO2OO
+UT WOS:000560525100001
+PM 32813938
+OA Green Published, hybrid, Green Accepted
+DA 2024-01-21
+ER
+
+PT J
+AU Westerdahl, F
+   Carlson, E
+   Wennick, A
+   Borglin, G
+AF Westerdahl, Frida
+   Carlson, Elisabeth
+   Wennick, Anne
+   Borglin, Gunilla
+TI Teaching strategies and outcome assessments targeting critical thinking
+   in bachelor nursing students: a scoping review protocol
+SO BMJ OPEN
+LA English
+DT Review
+DE critical thinking abilities; critical thinking skills; descriptive
+   numerical analysis; nurse educators; thematic analysis
+ID ETHICS
+AB Introduction
+   Applying critical thinking is essential for nursing students both in an academic and clinical context. Particularly, as critical thinking is a vital part of nurses' everyday problem-solving and decision-making processes. Therefore, regardless of the topic taught or the setting in which it is taught, it requires teaching strategies especially targeting students' critical thinking skills and abilities. One challenge with the latter is the difficulties to assess and evaluate the impact of such teaching strategies on the students' critical thinking disposition. Hence, our objective will be to review published literature on; existing teaching strategies and outcomes assessments targeting nursing students' critical thinking skills and abilities.
+   Methods and analysis
+   Our scoping review will be conducted in accordance with Arksey and O'Malley's framework for scoping studies. Search strategies will be developed in cooperation with an experienced librarian, and adjusted to each individual database for example, CINAHL, PubMed, PsycINFO, ERIC and ERC. A preliminary search in CINAHL was conducted on the 17(th) of July 2019. Peer-reviewed published studies conducted with a qualitative, quantitative or mixed method design and focussing our objectives, will be eligible for inclusion. Included studies will be quality assessed in accordance with their study design. Data will be charted using a standardised extraction form. The qualitative data will be presented through a thematic analyses, and the quantitative data by descriptive numerical analysis. Lastly, nurse educators and nursing students will be consulted for validation of the findings from the scoping review.
+   Ethics and dissemination
+   Under the Swedish Ethical Review Act (2003:460) this study does not need ethical clearance by a Regional Ethical Review Authority as it not includes any primary empirical data on biological material or sensitive information. The findings will be used to inform the design of a future study aiming to develop an, and subsequently evaluate it, educational intervention targeting teaching strategies focussing on nursing students' critical thinking skills and abilities.
+C1 [Westerdahl, Frida; Carlson, Elisabeth; Wennick, Anne; Borglin, Gunilla] Malmo Univ, Dept Care Sci, Malmo, Sweden.
+   [Borglin, Gunilla] Lovisenberg Diaconal Univ Coll, Nursing Educ, Oslo, Norway.
+C3 Malmo University; Lovisenberg Diaconal University College
+RP Westerdahl, F (corresponding author), Malmo Univ, Dept Care Sci, Malmo, Sweden.
+EM frida.nygren@mau.se
+RI Carlson, Elisabeth/M-5176-2014; Borglin, Gunilla/AAM-7651-2020
+OI Carlson, Elisabeth/0000-0003-0077-9061; Borglin,
+   Gunilla/0000-0002-7934-6949; Wennick, Anne/0000-0002-8684-2537;
+   Westerdahl, Frida/0000-0002-4086-0086
+NR 30
+TC 9
+Z9 10
+U1 4
+U2 19
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 2044-6055
+J9 BMJ OPEN
+JI BMJ Open
+PD JAN
+PY 2020
+VL 10
+IS 1
+AR e033214
+DI 10.1136/bmjopen-2019-033214
+PG 6
+WC Medicine, General & Internal
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC General & Internal Medicine
+GA KT9BD
+UT WOS:000519306600107
+PM 32014875
+OA Green Published, gold
+DA 2024-01-21
+ER
+
+PT J
+AU Hooshyar, D
+   Pedaste, M
+   Yang, Y
+   Malva, L
+   Hwang, GJ
+   Wang, MH
+   Lim, H
+   Delev, D
+AF Hooshyar, Danial
+   Pedaste, Margus
+   Yang, Yeongwook
+   Malva, Liina
+   Hwang, Gwo-Jen
+   Wang, Minhong
+   Lim, Heuiseok
+   Delev, Dejan
+TI From Gaming to Computational Thinking: An Adaptive Educational Computer
+   Game-Based Learning Approach
+SO JOURNAL OF EDUCATIONAL COMPUTING RESEARCH
+LA English
+DT Article
+DE adaptive educational computer game; computational thinking; adaptive
+   learning; adaptive gameplay; experimental research
+ID DESIGN; FLOW; PERFORMANCE; GUIDELINES
+AB Educational games have been increasingly used to improve students' computational thinking. However, most existing games have focused on the theoretical knowledge of computational thinking, ignoring the development of computational thinking skills. Moreover, there is a lack of integration of adaptivity into educational computer games for computational thinking, which is crucial to addressing individual needs in developing computational thinking skills. In this study, we present an adaptive educational computer game, called AutoThinking, for developing students' computational thinking skills in addition to their conceptual knowledge. To evaluate the effects of the game, we conducted an experimental study with 79 elementary school students in Estonia, where the experimental group learned with AutoThinking, while the control group used a traditional technology-enhanced learning approach. Our findings show that learning with the adaptive educational computer game significantly improved students' computational thinking related to both conceptual knowledge and skills. Moreover, students using the adaptive educational computer game showed a significantly higher level of interest, satisfaction, flow state, and technology acceptance in learning computational thinking. Implications of the findings are also discussed.
+C1 [Hooshyar, Danial; Pedaste, Margus; Yang, Yeongwook; Malva, Liina; Delev, Dejan] Univ Tartu, Inst Educ, Tartu, Estonia.
+   [Hwang, Gwo-Jen] Natl Taiwan Univ Sci & Technol, Grad Inst Digital Learning & Educ, Taipei, Taiwan.
+   [Hwang, Gwo-Jen] Kaohsiung Med Univ, Sch Med, Dept Med Humanities & Educ, Kaohsiung, Taiwan.
+   [Wang, Minhong] Univ Hong Kong, KM&EL Lab, Fac Educ, Hong Kong, Peoples R China.
+   [Lim, Heuiseok] Korea Univ, Dept Comp Sci & Engn, Seoul, South Korea.
+C3 University of Tartu; National Taiwan University of Science & Technology;
+   Kaohsiung Medical University; University of Hong Kong; Korea University
+RP Hooshyar, D (corresponding author), Univ Tartu, Inst Educ, Tartu, Estonia.
+EM danial.hooshyar@gmail.com
+RI Hidayat, Ima Kusumawati/ABF-6870-2021; Heuiseok, Lim/IUP-5678-2023;
+   Hooshyar, Danial/X-5126-2018; Hwang, Gwo-Jen/G-6454-2012
+OI Hidayat, Ima Kusumawati/0000-0002-3387-9213; Hooshyar,
+   Danial/0000-0002-9143-6648; Yang, Yeongwook/0000-0003-3219-7250;
+   Pedaste, Margus/0000-0002-5087-9637
+FU University of Tartu ASTRA Project PER ASPERA - European Regional
+   Development Fund; MSIT (Ministry of Science and ICT), Korea, under the
+   ITRC (Information Technology Research Center) support program by the
+   IITP (Institute for Information & Communications Technology Planning
+   Evaluation) [IITP-2020-2018-0-01405]; Institute for Information &
+   communications Technology Planning & Evaluation (IITP) - Korea
+   government (MSIT) [2020-0-00368]
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This research
+   was supported by the University of Tartu ASTRA Project PER ASPERA,
+   financed by the European Regional Development Fund; the MSIT (Ministry
+   of Science and ICT), Korea, under the ITRC (Information Technology
+   Research Center) support program (IITP-2020-2018-0-01405) supervised by
+   the IITP (Institute for Information & Communications Technology Planning
+   & Evaluation); and the Institute for Information & communications
+   Technology Planning & Evaluation (IITP) grant funded by the Korea
+   government (MSIT) (No. 2020-0-00368, A Neural-Symbolic Model for
+   Knowledge Acquisition and Inference Techniques).
+NR 62
+TC 43
+Z9 49
+U1 19
+U2 184
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0735-6331
+EI 1541-4140
+J9 J EDUC COMPUT RES
+JI J. Educ. Comput. Res.
+PD JUN
+PY 2021
+VL 59
+IS 3
+BP 383
+EP 409
+AR 0735633120965919
+DI 10.1177/0735633120965919
+EA OCT 2020
+PG 27
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA RZ0XF
+UT WOS:000583699600001
+DA 2024-01-21
+ER
+
+PT J
+AU Shen, ZY
+   Man, ZH
+   Cao, ZW
+   Zheng, JC
+AF Shen, Zhenyi
+   Man, Zhihong
+   Cao, Zhenwei
+   Zheng, Jinchuan
+TI A new intelligent pattern classifier based on deep-thinking
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Deep-thinking pattern classifier; Bayesian inference; Unsupervised
+   learning; Correlation principle
+ID MACHINE
+AB A new intelligent pattern classifier based on the human being's thinking logics is developed in this paper, aiming to approximate the optimal design process and avoid the matrix inverse computation in conventional classifier designs. It is seen that the proposed classifier has no parameters to be determined via mathematical optimization. Instead, it is built by using the correlation principles to construct the clusters at first. The middle-level feature vectors can then be extracted from the statistical information of the correlations between the input data and the ones in each pattern cluster. For accurate classification purpose, the advanced feature vectors are generated with the moments' information of the middle-level feature vectors. After that, Bayesian inference is implemented to make decisions from the weighted sum of the advanced feature components. In addition, a real-time fine-tuning loop (layer) is designed to adaptively "widen" the border of each pattern clustering region such that the input data can be directly classified once they are located in one of the clustering regions. An experiment for the classification of the handwritten digit images from the MNIST database is performed to show the excellent performance and effectiveness of the proposed intelligent pattern classifier.
+C1 [Shen, Zhenyi; Man, Zhihong; Cao, Zhenwei; Zheng, Jinchuan] Swinburne Univ Technol, Fac Sci Engn & Technol, Melbourne, Vic 3122, Australia.
+C3 Swinburne University of Technology
+RP Man, ZH (corresponding author), Swinburne Univ Technol, Fac Sci Engn & Technol, Melbourne, Vic 3122, Australia.
+EM zshen@swin.edu.au; zman@swin.edu.au; zcao@swin.edu.au;
+   jzheng@swin.edu.au
+RI Zheng, Jinchuan/AAD-7848-2020
+OI Zheng, Jinchuan/0000-0002-0550-9223; Cao, Zhenwei/0000-0002-6910-7346;
+   Man, Zhihong/0000-0002-8338-2125; Shen, Zhenyi/0000-0001-5612-4043
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 9
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD SEP
+PY 2020
+VL 32
+IS 18
+SI SI
+BP 14247
+EP 14261
+DI 10.1007/s00521-019-04479-0
+PG 15
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NX4AB
+UT WOS:000575651700002
+DA 2024-01-21
+ER
+
+PT J
+AU Mouza, C
+   Pan, YC
+   Yang, H
+   Pollock, L
+AF Mouza, Chrystalla
+   Pan, Yi-Cheng
+   Yang, Hui
+   Pollock, Lori
+TI A Multiyear Investigation of Student Computational Thinking Concepts,
+   Practices, and Perspectives in an After-School Computing Program
+SO JOURNAL OF EDUCATIONAL COMPUTING RESEARCH
+LA English
+DT Article
+DE computational thinking; object-oriented programming; informal learning
+   environment; equity; mixed methods
+ID GIRLS; SCIENCE; GENDER
+AB In this work, we examine whether repeated participation in an after-school computing program influenced student learning of computational thinking concepts, practices, and perspectives. We also examine gender differences in learning outcomes. The program was developed through a school-university partnership. Data were collected from 138 students over a 2.5-year period. Data sources included pre-post content assessments of computational concepts related to programming in addition to computational artifacts and interviews with a purposeful sample of 12 participants. Quantitative data were analyzed using statistical methods to identify gains in pre- and post-learning of computational thinking concepts and examine potential gender differences. Interview data were analyzed qualitatively. Results indicated that students made significant gains in their learning of computational thinking concepts and that gains persisted over time. Results also revealed differences in learning of computational thinking concepts among boys and girls both at the beginning and end of the program. Finally, results from student interviews provided insights into the development of computational thinking practices and perspectives over time. Results have implications for the design of after-school computing programs that help broaden participation in computing.
+C1 [Mouza, Chrystalla; Pan, Yi-Cheng; Yang, Hui] Univ Delaware, 116 W Main St,Willard Hall, Newark, DE 19716 USA.
+   [Mouza, Chrystalla] Univ Delaware, Sch Educ, Newark, DE USA.
+   [Pollock, Lori] Univ Delaware, Comp Sci, Newark, DE USA.
+C3 University of Delaware; University of Delaware; University of Delaware
+RP Mouza, C (corresponding author), Univ Delaware, 116 W Main St,Willard Hall, Newark, DE 19716 USA.
+EM cmouza@udel.edu
+OI mouza, chrystalla/0000-0001-9604-542X
+FU National Science Foundation [1240905, 1639649]; Direct For Computer &
+   Info Scie & Enginr; Division Of Computer and Network Systems [1240905]
+   Funding Source: National Science Foundation; Direct For Computer & Info
+   Scie & Enginr; Division Of Computer and Network Systems [1639649]
+   Funding Source: National Science Foundation
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: Research
+   reported in this article was supported by National Science Foundation
+   under award numbers: 1240905 and 1639649. The content is solely the
+   responsibility of the authors and does not necessarily represent the
+   official views of the National Science Foundation.
+NR 56
+TC 18
+Z9 19
+U1 9
+U2 73
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0735-6331
+EI 1541-4140
+J9 J EDUC COMPUT RES
+JI J. Educ. Comput. Res.
+PD SEP
+PY 2020
+VL 58
+IS 5
+BP 1029
+EP 1056
+AR 0735633120905605
+DI 10.1177/0735633120905605
+EA FEB 2020
+PG 28
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA MI2SY
+UT WOS:000514770300001
+OA Bronze
+DA 2024-01-21
+ER
+
+PT J
+AU Lee, YS
+   Cho, JW
+AF Lee, Youngseok
+   Cho, Jungwon
+TI Knowledge representation for computational thinking using knowledge
+   discovery computing
+SO INFORMATION TECHNOLOGY & MANAGEMENT
+LA English
+DT Article
+DE Knowledge representation; Knowledge discovery; Problem solving;
+   Computational thinking; Knowledge-based tutoring system
+ID ROBOTICS; SUPPORT
+AB Modern society needs to think of new approaches for solving problems with computing. Computational thinking is the process of abstracting and automating a variety of problems using computational technology. A system that expresses, manages, and processes knowledge such as computational thinking is called a knowledge-based system. This paper proposes to examine students' knowledge about computational thinking when they want to develop a Python project, and the correlation/association between these concepts. To achieve our goal, a field study was designed and data were collected from a computer programming lecture. Through this data analysis, we try to identify the factors through the correlation between data and clustering technique in order to express and discover the knowledge about the learner's computational thinking. For the verification of the factors identified, we analyzed the correlation between computational thinking and the pre- and post-test results of the LightBot. In addition to the regression analysis of the proven factors, the probability of the research model was analyzed through the structural equation to process the knowledge discovered. In this paper, we present various problems in the domain of programming education and analyze the means to diagnose and improve knowledge based on computational thinking by finding various problem-solving methods. To pre-examine the learner; he/she was diagnosed using a test paper and the LightBot execution test. We checked the learner's current knowledge state by analyzing the correlation between the test site and the results of the LightBot. To analyze the level of knowledge improvement of learners, we designed an experiment to analyze the correlation between learning and the actual test results through a system that applied the problem-solving learning method. An analysis of the experimental results demonstrated that there was a correlation between the test results for a learner and the pre-test results of the LightBot. Additionally, the group mean scores of the learners who learned as per the proposed technique were observed to be significant. During this process, we analyzed the effects of problem-solving and system application on academic achievement through factor analysis, regression analysis, and structural equation modeling. The ability to pinpoint various problem scenarios and solve problems more effectively using computational technologies will become more important in future. For this purpose, applying our proposed technique for deriving and improving knowledge based on computational thinking to software education will induce the interest of students and increase the learning effect.
+C1 [Lee, Youngseok] Kangnam Univ, KNU Coll Liberal Arts & Sci, 40 Gangnam Ro, Yongin 16979, Gyeonggi Do, South Korea.
+   [Cho, Jungwon] Jeju Natl Univ, Dept Comp Educ, 102 Jejudaehak Ro, Jeju Si 63243, Jeju Do, South Korea.
+C3 Kangnam University; Jeju National University
+RP Cho, JW (corresponding author), Jeju Natl Univ, Dept Comp Educ, 102 Jejudaehak Ro, Jeju Si 63243, Jeju Do, South Korea.
+EM yslee38@kangnam.ac.kr; jwcho@jejunu.ac.kr
+OI Cho, Jungwon/0000-0001-5746-9596
+NR 45
+TC 5
+Z9 5
+U1 3
+U2 40
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1385-951X
+EI 1573-7667
+J9 INFORM TECHNOL MANAG
+JI Inf. Technol. Manag.
+PD MAR
+PY 2020
+VL 21
+IS 1
+SI SI
+BP 15
+EP 28
+DI 10.1007/s10799-019-00299-9
+PG 14
+WC Information Science & Library Science; Management
+WE Social Science Citation Index (SSCI)
+SC Information Science & Library Science; Business & Economics
+GA KX2UQ
+UT WOS:000521737200002
+DA 2024-01-21
+ER
+
+PT J
+AU Cachero, C
+   Barra, P
+   Melia, S
+   López, O
+AF Cachero, Cristina
+   Barra, Pilar
+   Melia, Santiago
+   Lopez, Otoniel
+TI Impact of Programming Exposure on the Development of Computational
+   Thinking Capabilities: An Empirical Study
+SO IEEE ACCESS
+LA English
+DT Article
+DE Programming profession; Training; Instruments; Psychology; Information
+   systems; Problem-solving; Programming; computational thinking;
+   problem-solving; career development; technology social factors;
+   observational study
+ID DESIGN
+AB Today & x2019;s digital society has turned the development of students & x2019; computational thinking capabilities into a critical factor for their future success. As higher education institutions, we need to take responsibility for this development in every degree course we offer, and provide students with the kind of subjects and activities that best contribute to this aim. In this paper, we study the impact of following an introductory programming course on the development of the computational thinking capabilities of university students. In order to achieve this aim, a concurrent cohort observational study was carried out in which we measured both the subjective and objective computational thinking capabilities of 104 participants (50 first year students enrolled on a Bachelor & x2019;s degree course in Psychology at the Catholic University of Murcia (UCAM), and 54 first year students enrolled on a Bachelor & x2019;s degree course in Health Information Systems at the University of Alicante (UA)). The statistical procedures applied to test our hypotheses were a two-way mixed ANOVA, a paired-sample T-test and an independent-sample T-test. The data shows that the group at UA had an initial higher subjective perception of their computational capabilities than the group at UCAM. This perception was supported by their objective scores, which were also significantly higher. However, the subjective assessment of computational capability of the UA group diminished after exposure to the programming course, contrasting with the fact that their objective computational capabilities improved significantly. In the UCAM group, both subjective and objective capabilities remained constant over time. Based on these results, we can conclude that computational thinking capabilities are not developed naturally, but need to be trained. Providing such training to all our students, and not only to those enrolled on undergraduate degrees in engineering, is of paramount importance to allow them to face the challenges of their future professions. This paper empirically demonstrates the extent to which exposing subjects to a programming course may contribute to this aim.
+C1 [Cachero, Cristina; Melia, Santiago] Univ Alicante, Dept Lenguajes & Sistemas Informat, Alicante 03690, Spain.
+   [Barra, Pilar] Univ Catolica San Antonio Murcia UCAM, Dept Turismo, Murcia 30107, Spain.
+   [Lopez, Otoniel] Univ Miguel Hernandez, Dept Ingn Comp, Alicante 03202, Spain.
+C3 Universitat d'Alacant; Universidad Catolica de Murcia; Universidad
+   Miguel Hernandez de Elche
+RP Cachero, C (corresponding author), Univ Alicante, Dept Lenguajes & Sistemas Informat, Alicante 03690, Spain.
+EM ccachero@dlsi.ua.es
+RI Meliá, Santiago/AAT-3532-2021; Castro, Cristina Cachero/AAC-2213-2019;
+   Granado, Otoniel Lopez/B-2121-2012
+OI Meliá, Santiago/0000-0003-3782-6626; Castro, Cristina
+   Cachero/0000-0001-6281-8287; Granado, Otoniel Lopez/0000-0002-6968-061X;
+   Barra-Hernandez, Pilar/0000-0002-4415-0110
+FU Spanish Ministry of Economy, Industry, and Competitiveness (Access@City)
+   [TIN2016-78103-C2-2-R]; Spanish Ministry of Science, Innovation, and
+   Universities [RTI2018-098156-B-C54]; FEDER funds (MINECO/FEDER/UE);
+   EduTech Project - Erasmus+ Programme of the European Union
+   [609785-EPP-1-2019-1-ES-EPPKA2-CBHE-JP]
+FX This work was supported in part by the Spanish Ministry of Economy,
+   Industry, and Competitiveness (Access@City) under Contract
+   TIN2016-78103-C2-2-R, in part by the Spanish Ministry of Science,
+   Innovation, and Universities under Contract RTI2018-098156-B-C54, in
+   part by the Co-Financed by FEDER funds (MINECO/FEDER/UE), and in part by
+   the EduTech Project co-funded by the Erasmus+ Programme of the European
+   Union under Grant 609785-EPP-1-2019-1-ES-EPPKA2-CBHE-JP.
+NR 28
+TC 15
+Z9 15
+U1 2
+U2 29
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 72316
+EP 72325
+DI 10.1109/ACCESS.2020.2987254
+PG 10
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA LK4JR
+UT WOS:000530827300006
+OA gold, Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Tang, XD
+   Yin, Y
+   Lin, Q
+   Hadad, R
+   Zhai, XM
+AF Tang, Xiaodan
+   Yin, Yue
+   Lin, Qiao
+   Hadad, Roxana
+   Zhai, Xiaoming
+TI Assessing computational thinking: A systematic review of empirical
+   studies
+SO COMPUTERS & EDUCATION
+LA English
+DT Review
+DE Evaluation methodologies; Teaching/learning strategies; Information
+   literacy; Applications in subject areas; 21st century abilities;
+   Computational thinking
+ID PEDAGOGICAL CONTENT KNOWLEDGE; MIDDLE SCHOOL GIRLS; SELF-EFFICACY;
+   ELEMENTARY STUDENTS; PRESERVICE TEACHERS; GAME DESIGN; SCIENCE;
+   ROBOTICS; SKILLS; EXPLORATION
+AB With the increasing attention to Computational Thinking (CT) in education, there has been a concomitant rise of needs and interest in investigating how to assess CT skills. This study systematically reviewed how CT has been assessed in the literature. We reviewed 96 journal articles to analyze specific CT assessments from four perspectives: educational context, assessment construct, assessment type, and reliability and validity evidence. Our review results indicate that (a) more CT assessments are needed for high school, college students, and teacher professional development programs, (b) most CT assessments focus on students' programming or computing skills, (c) traditional tests and performance assessments are often used to assess CT skills, and surveys are used to measure students' CT dispositions, and (d) more reliability and validity evidence needs to be collected and reported in future studies. This review identifies current research gaps and future directions to conceptualize and assess CT skills, and the findings are expected to be beneficial for researchers, curriculum designers, and instructors.
+C1 [Tang, Xiaodan; Yin, Yue; Lin, Qiao; Hadad, Roxana] Univ Illinois, 1200 West Harrison St, Chicago, IL 60607 USA.
+   [Hadad, Roxana] Univ Calif Los Angeles, 405 Hilgard Ave, Los Angeles, CA 90095 USA.
+   [Hadad, Roxana] NE Illinois Univ, 5500 North St Louis Ave, Chicago, IL 60625 USA.
+   [Zhai, Xiaoming] Michigan State Univ, 426 Auditorium Rd, E Lansing, MI 48824 USA.
+C3 University of Illinois System; University of Illinois Chicago;
+   University of Illinois Chicago Hospital; University of California
+   System; University of California Los Angeles; Michigan State University
+RP Tang, XD (corresponding author), Univ Illinois, Dept Educ Psychol, 1040 W Harrison St,MC 147, Chicago, IL 60607 USA.
+EM xtang1322@gmail.com; yueyin@uic.edu; qlin7@uic.edu; rhadad@ucla.edu;
+   zhaixia1@msu.edu
+RI Zhai, Xiaoming/AAB-7129-2021; Tang, Xiaodan/HLW-4127-2023
+OI Zhai, Xiaoming/0000-0003-4519-1931; Tang, Xiaodan/0000-0001-7493-623X;
+   Lin, Qiao/0000-0002-5565-1439
+FU National Science Foundation (NSF) [1543124]; Division Of Research On
+   Learning; Direct For Education and Human Resources [1543124] Funding
+   Source: National Science Foundation
+FX This material is based upon work supported by the National Science
+   Foundation (NSF) under grant with an ID of 1543124. Any opinions,
+   findings, and conclusions or recommendations expressed in this material
+   are those of the authors and do not necessarily reflect the views of the
+   NSF.
+NR 167
+TC 231
+Z9 248
+U1 85
+U2 564
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1315
+EI 1873-782X
+J9 COMPUT EDUC
+JI Comput. Educ.
+PD APR
+PY 2020
+VL 148
+AR 103798
+DI 10.1016/j.compedu.2019.103798
+PG 22
+WC Computer Science, Interdisciplinary Applications; Education &
+   Educational Research
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Education & Educational Research
+GA KJ8KS
+UT WOS:000512305200004
+OA Bronze
+DA 2024-01-21
+ER
+
+PT J
+AU Krejci, SE
+   Ramroop-Butts, S
+   Torres, HN
+   Isokpehi, RD
+AF Krejci, Sarah E.
+   Ramroop-Butts, Shirma
+   Torres, Hector N.
+   Isokpehi, Raphael D.
+TI Visual Literacy Intervention for Improving Undergraduate Student
+   Critical Thinking of Global Sustainability Issues
+SO SUSTAINABILITY
+LA English
+DT Article
+DE academic success; decision making; environmental science; general
+   education courses; global sustainability; reinforcement learning; visual
+   literacy
+ID DATA VISUALIZATION; EDUCATION; GRAPHS; COMPREHENSION
+AB The promotion of global sustainability within environmental science courses requires a paradigm switch from knowledge-based teaching to teaching that stimulates higher-order cognitive skills. Non-major undergraduate science courses, such as environmental science, promote critical thinking in students in order to improve the uptake of scientific information and develop the rational decision making used to make more informed decisions. Science, engineering, technology and mathematics (STEM) courses rely extensively on visuals in lectures, readings and homework to improve knowledge. However, undergraduate students do not automatically acquire visual literacy and a lack of intervention from instructors could be limiting academic success. In this study, a visual literacy intervention was developed and tested in the face-to-face (FTF) and online sections of an undergraduate non-major Introduction to Environmental Science course. The intervention was designed to test and improve visual literacy at three levels: (1) elementary-identifying values; (2) intermediate-identifying trends; and (3) advanced-using the data to make projections or conclusions. Students demonstrated a significant difference in their ability to answer elementary and advanced visual literacy questions in both course sections in the pre-test and post-test. Students in the face-to-face course had significantly higher exam scores and higher median assessment scores compared to sections without a visual literacy intervention. The online section did not show significant improvements in visual literacy or academic success due to a lack of reinforcement of visual literacy following the initial intervention. The visual literacy intervention shows promising results in improving student academic success and should be considered for implementation in other general education STEM courses.
+C1 [Krejci, Sarah E.; Ramroop-Butts, Shirma; Torres, Hector N.; Isokpehi, Raphael D.] Bethune Cookman Univ, Coll Nat & Hlth Sci, Engn & Math, Daytona Beach, FL 32114 USA.
+   [Torres, Hector N.] Bethune Cookman Univ, Sch Educ, Daytona Beach, FL 32114 USA.
+C3 Bethune-Cookman University; Bethune-Cookman University
+RP Isokpehi, RD (corresponding author), Bethune Cookman Univ, Coll Nat & Hlth Sci, Engn & Math, Daytona Beach, FL 32114 USA.
+EM krejcis@cookman.edu; ramroops@cookman.edu; torresh@cookman.edu;
+   isokpehir@cookman.edu
+RI Torres, Héctor/GXG-1780-2022
+OI Krejci, Sarah/0000-0003-2874-8822; Isokpehi, Raphael/0000-0002-6877-0840
+FU Department of Education Title III Program at Bethune-Cookman University
+   [P031B170091]; National Science Foundation [EHR-1435186, EHR-1623371,
+   EHR-1626602, CSE-1829717, EHR-2029363]
+FX This research was funded by the Department of Education Title III
+   Program at Bethune-Cookman University (P031B170091); National Science
+   Foundation (EHR-1435186; EHR-1623371, EHR-1626602, CSE-1829717;
+   EHR-2029363). Bethune-Cookman University paid for the Article Processing
+   Cost (APC).
+NR 57
+TC 1
+Z9 1
+U1 12
+U2 35
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD DEC
+PY 2020
+VL 12
+IS 23
+AR 10209
+DI 10.3390/su122310209
+PG 19
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA PD2GC
+UT WOS:000597508900001
+OA gold, Green Published
+DA 2024-01-21
+ER
+
+PT J
+AU Shaw, R
+AF Shaw, Rajib
+TI Thirty Years of Science, Technology, and Academia in Disaster Risk
+   Reduction and Emerging Responsibilities
+SO INTERNATIONAL JOURNAL OF DISASTER RISK SCIENCE
+LA English
+DT Article
+DE Co-design solutions in disaster risk reduction; Professional society;
+   Science and technology in disaster risk reduction; Society 5; 0
+AB The 1990 initiation of the International Decade for Natural Disaster Reduction marked its 30th year in 2019. The three decades since then have seen significant developments in science and technology and their incorporation into the decision making in the field of disaster risk reduction. The disasters that have occurred during that time have enhanced the importance of the field, and new research and innovations have evolved. This article summarizes this evolution through the review of specific milestones. While the Sendai Framework for Disaster Risk Reduction 2015-2030 provides opportunities for synergies with the sustainable development agenda, the science and technology communities have also changed their roles from advisory to co-designing and co-delivering solutions. Higher education plays an important role in developing new generations of professionals, and the role of thematic incubation in higher education institutions is highlighted along with the development of the professional society in disaster risk reduction. The evolution from Society 4.0 (information age) to Society 5.0 will see an enhanced role of the technology-driven approach in disaster risk reduction, while traditional knowledge and indigenous technologies still remain valid for society. Scientists and science communities need to be more sensitive to changing the "last mile" concept to "first mile" thinking with respect to the users' needs and perspectives.
+C1 [Shaw, Rajib] Keio Univ, Grad Sch Media & Governance, Fujisawa, Kanagawa 2520882, Japan.
+C3 Keio University
+RP Shaw, R (corresponding author), Keio Univ, Grad Sch Media & Governance, Fujisawa, Kanagawa 2520882, Japan.
+EM shaw@sfc.keio.ac.jp
+OI Shaw, Rajib/0000-0003-3153-1800
+NR 27
+TC 18
+Z9 23
+U1 1
+U2 24
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 2095-0055
+EI 2192-6395
+J9 INT J DISAST RISK SC
+JI Int. J. Disaster Risk Sci.
+PD AUG
+PY 2020
+VL 11
+IS 4
+BP 414
+EP 425
+DI 10.1007/s13753-020-00264-z
+EA APR 2020
+PG 12
+WC Geosciences, Multidisciplinary; Meteorology & Atmospheric Sciences;
+   Water Resources
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Geology; Meteorology & Atmospheric Sciences; Water Resources
+GA NI2ML
+UT WOS:000557262100001
+OA gold
+DA 2024-01-21
+ER
+
+PT J
+AU Bilik, Ö
+   Kankaya, EA
+   Deveci, Z
+AF Bilik, Ozlem
+   Kankaya, Eda Ayten
+   Deveci, Zeynep
+TI Effects of web-based concept mapping education on students' concept
+   mapping and critical thinking skills: A double blind, randomized,
+   controlled study
+SO NURSE EDUCATION TODAY
+LA English
+DT Article; Proceedings Paper
+CT 2nd International and 10th National Congress of Turkish Operating Room
+   and Surgical Nursing
+CY NOV 02-05, 2017
+CL Antalya, TURKEY
+DE Nurse education; Concept mapping; Critical thinking skills; Qualitative;
+   Randomized controlled study
+ID IMPROVE-CRITICAL-THINKING; CONCEPT MAPS; NURSING-CARE; RECOGNITION;
+   KNOWLEDGE; PROGRAM; IMPACT; PLANS
+AB Background: Using concept maps in nurse education improves students' critical thinking skills. Offering web-based concept mapping education can increase motivation for learning in students actively using the Internet.
+   Objectives: To examine the effects of web-based concept mapping education on nursing students' concept mapping and critical thinking skills.
+   Design: This is a double-blind, randomized, controlled, experimental study.
+   Settings: A nursing faculty at a state university in Turkey.
+   Participants: Second-year nursing students taking the course surgical nursing in the spring term of the academic year of 2018/2019.
+   Methods: The experimental group (n = 201) was offered web-based concept mapping education before starting practicums. Data were collected using a students' information form, concept map evaluation keys, and the Critical Thinking Motivational Scale at the end of the practicums. A structured questionnaire was used to reveal opinions of the students about concept mapping.
+   Results: There was a significant difference in concept mapping scores between the students offered web-based concept mapping education (16.45 +/- 10.91) and those not receiving this education (12.70 +/- 9.31) (p=.000). Also, there was a significant difference in students' scores for the subscales of Critical Thinking Motivational Scale expectancy, attainment and utility between the groups. The students reported that concept maps facilitated their learning and management of nursing processes but that they occasionally experienced difficulty.
+   Conclusion: It can be concluded that web-based concept mapping education improves concept mapping skills and motivation for critical thinking skills. Web-based education could be utilized as a tool to enhance nursing students' concept mapping and critical thinking skills.
+C1 [Bilik, Ozlem; Kankaya, Eda Ayten] Dokuz Eylul Univ, Fac Nursing, Izmir, Turkey.
+   [Deveci, Zeynep] Dokuz Eylul Univ, Instute Hlth Sci, Izmir, Turkey.
+C3 Dokuz Eylul University; Dokuz Eylul University
+RP Deveci, Z (corresponding author), Pamukkale Univ, Fac Hlth Sci, Nursing Dept, 3rd Floor C-301,Kinikli Campus, Denizli, Turkey.
+EM zdeveci@pau.edu.tx
+RI Kankaya, Eda Ayten/ABG-9389-2021; Bilik, Özlem/AAP-1016-2021
+OI Kankaya, Eda Ayten/0000-0002-2519-4732; Bilik,
+   Ozlem/0000-0002-8372-8974; Deveci, Zeynep/0000-0002-7383-5135
+NR 32
+TC 17
+Z9 19
+U1 2
+U2 60
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0260-6917
+EI 1532-2793
+J9 NURS EDUC TODAY
+JI Nurse Educ. Today
+PD MAR
+PY 2020
+VL 86
+AR 104312
+DI 10.1016/j.nedt.2019.104312
+PG 6
+WC Education, Scientific Disciplines; Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Education & Educational Research; Nursing
+GA KO0AZ
+UT WOS:000515209700002
+PM 31841830
+DA 2024-01-21
+ER
+
+PT J
+AU Ahmady, S
+   Shahbazi, S
+AF Ahmady, Soleiman
+   Shahbazi, Sara
+TI Impact of social problem-solving training on critical thinking and
+   decision making of nursing students
+SO BMC NURSING
+LA English
+DT Article
+DE Social problem solving; Decision making; Critical thinking; Nursing;
+   Student
+ID IMPLEMENTATION; ABILITY; NURSES
+AB Background The complex health system and challenging patient care environment require experienced nurses, especially those with high cognitive skills such as problem-solving, decision- making and critical thinking. Therefore, this study investigated the impact of social problem-solving training on nursing students' critical thinking and decision-making. Methods This study was quasi-experimental research and pre-test and post-test design and performed on 40 undergraduate/four-year students of nursing in Borujen Nursing School/Iran that was randomly divided into 2 groups; experimental (n = 20) and control (n = 20). Then, a social problem-solving course was held for the experimental group. A demographic questionnaire, social problem-solving inventory-revised, California critical thinking test, and decision-making questionnaire was used to collect the information. The reliability and validity of all of them were confirmed. Data analysis was performed using SPSS software and independent sampled T-test, paired T-test, square chi, and Pearson correlation coefficient. Results The finding indicated that the social problem-solving course positively affected the student' social problem-solving and decision-making and critical thinking skills after the instructional course in the experimental group (P < 0.05), but this result was not observed in the control group (P > 0.05). Conclusions The results showed that structured social problem-solving training could improve cognitive problem-solving, critical thinking, and decision-making skills. Considering this result, nursing education should be presented using new strategies and creative and different ways from traditional education methods. Cognitive skills training should be integrated in the nursing curriculum. Therefore, training cognitive skills such as problem- solving to nursing students is recommended.
+C1 [Ahmady, Soleiman] Shahid Beheshti Univ Med Sci, Virtual Sch Med Educ & Management, Dept Med Educ, Tehran, Iran.
+   [Shahbazi, Sara] Shahid Beheshty Univ Med Sci, Virtual Sch Med Educ & Management, Tehran, Iran.
+   [Shahbazi, Sara] Shahrekord Univ Med Sci, Community Oriented Nursing Midwifery Res Ctr, Shahrekord, Iran.
+C3 Shahid Beheshti University Medical Sciences; Shahid Beheshti University
+   Medical Sciences; Shahrekord University Medical Sciences
+RP Shahbazi, S (corresponding author), Shahid Beheshty Univ Med Sci, Virtual Sch Med Educ & Management, Tehran, Iran.; Shahbazi, S (corresponding author), Shahrekord Univ Med Sci, Community Oriented Nursing Midwifery Res Ctr, Shahrekord, Iran.
+EM sara.shahbazi@sbmu.ac.ir
+RI Ahmady, Soleiman/ABG-7343-2020; Ahmady, Soleiman/ABE-2299-2020
+FU Research and Technology Department of Shahrekord University of Medical
+   Sciences [980]
+FX This article results from research project No. 980 approved by the
+   Research and Technology Department of Shahrekord University of Medical
+   Sciences. We would like to appreciate to all personnel and students of
+   the Borujen Nursing School. The efforts of all those who assisted us
+   throughout this research.
+NR 35
+TC 15
+Z9 21
+U1 6
+U2 37
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1472-6955
+J9 BMC NURS
+JI BMC Nurs.
+PD OCT 7
+PY 2020
+VL 19
+IS 1
+AR 94
+DI 10.1186/s12912-020-00487-x
+PG 8
+WC Nursing
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Nursing
+GA NX6QO
+UT WOS:000575833500001
+PM 33041659
+OA gold, Green Published
+DA 2024-01-21
+ER
+
+PT J
+AU Tappin, B
+   Pennycook, G
+   Rand, DG
+AF Tappin, Ben M.
+   Pennycook, Gordon
+   Rand, David G.
+TI Bayesian or biased? Analytic thinking and political belief updating
+SO COGNITION
+LA English
+DT Article
+DE Political beliefs; Bayesian updating; Cognitive sophistication;
+   Polarization
+ID COGNITIVE REFLECTION TEST; CLIMATE-CHANGE; MOTIVATED SKEPTICISM; SCIENCE
+   LITERACY; PARTISAN BIAS; INFORMATION; PSYCHOLOGY; POLITICIZATION;
+   PERFORMANCE; INFERENCE
+AB A surprising finding from U.S. opinion surveys is that political disagreements tend to be greatest among the most cognitively sophisticated opposing partisans. Recent experiments suggest a hypothesis that could explain this pattern: cognitive sophistication magnifies politically biased processing of new information. However, the designs of these experiments tend to contain several limitations that complicate their support for this hypothesis. In particular, they tend to (i) focus on people's worldviews and political identities, at the expense of their other, more specific prior beliefs, (ii) lack direct comparison with a politically unbiased benchmark, and (iii) focus on people's judgments of new information, rather than on their posterior beliefs following exposure to the information. We report two studies designed to address these limitations. In our design, U.S. subjects received noisy but informative signals about the truth or falsity of partisan political questions, and we measured their prior and posterior beliefs, and cognitive sophistication, operationalized as analytic thinking inferred via performance on the Cognitive Reflection Test. We compared subjects' posterior beliefs to an unbiased Bayesian benchmark. We found little evidence that analytic thinking magnified politically biased deviations from the benchmark. In contrast, we found consistent evidence that greater analytic thinking was associated with posterior beliefs closer to the benchmark. Together, these results are inconsistent with the hypothesis that cognitive sophistication magnifies politically biased processing. We discuss differences between our design and prior work that can inform future tests of this hypothesis.
+C1 [Tappin, Ben M.; Rand, David G.] MIT, Sloan Sch Management, Cambridge, MA 02142 USA.
+   [Pennycook, Gordon] Univ Regina, Hill Levene Sch Business, Regina, SK, Canada.
+   [Rand, David G.] MIT, Dept Brain & Cognit Sci, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT); University of Regina;
+   Massachusetts Institute of Technology (MIT)
+RP Tappin, B (corresponding author), MIT, Sloan Sch Management, Cambridge, MA 02142 USA.
+EM benmtappin@googlemail.com
+RI Pennycook, Gordon/AAD-6631-2019
+OI Pennycook, Gordon/0000-0003-1344-6143; Tappin, Ben
+   M./0000-0002-3826-8016
+NR 70
+TC 42
+Z9 46
+U1 3
+U2 29
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0010-0277
+EI 1873-7838
+J9 COGNITION
+JI Cognition
+PD NOV
+PY 2020
+VL 204
+AR 104375
+DI 10.1016/j.cognition.2020.104375
+PG 12
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA NR8UR
+UT WOS:000571837900004
+PM 32592890
+OA Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Varasteh, M
+   Hoydis, J
+   Clerckx, B
+AF Varasteh, Morteza
+   Hoydis, Jakob
+   Clerckx, Bruno
+TI Learning to Communicate and Energize: Modulation, Coding, and Multiple
+   Access Designs for Wireless Information-Power Transmission
+SO IEEE TRANSACTIONS ON COMMUNICATIONS
+LA English
+DT Article
+DE Additive White Gaussian Noise (AWGN); noisy channel; power transfer;
+   nonlinear energy harvester; machine learning; modulation; SNR; symbol
+   error rate (SER); Machine Learning (ML) decoding; Simultaneous Wireless
+   Information-Power Transmission (SWIPT)
+ID WAVE-FORM DESIGN; NONLINEARITY; SIGNAL
+AB The explosion of the number of low-power devices in the next decades calls for a re-thinking of wireless network design, namely, unifying wireless transmission of information and power so as to make the best use of the RF spectrum, radiation, and infrastructure for the dual purpose of communicating and energizing. This article provides a novel learning-based approach towards such wireless network design. To that end, a parametric model of a practical energy harvester, accounting for various sources of nonlinearities, is proposed using a nonlinear regression algorithm applied over collected real data. Relying on the proposed model, the learning problem of modulation design for Simultaneous Wireless Information-Power Transmission (SWIPT) over a point-to-point link is studied. Joint optimization of the transmitter and the receiver is implemented using Neural Network (NN)-based autoencoders. The results reveal that by increasing the receiver power demand, the baseband transmit modulation constellation converges to an On-Off keying signalling. Utilizing the observations obtained via learning, an algorithmic SWIPT modulation design is proposed. It is observed via numerical results that the performance loss of the proposed modulations are negligible compared to the ones obtained from learning. Extension of the studied problem to learning modulation design for multi-user SWIPT scenarios and coded modulation design for point-to-point SWIPT are considered. The major conclusion of this work is to utilize learning-based results to design non learning-based algorithms, which perform as well. In particular, inspired by the results obtained via learning, an algorithmic approach for coded modulation design is proposed, which performs very close to its learning counterparts, and is significantly superior due to its high real-time adaptability to new system design parameters.
+C1 [Varasteh, Morteza] Univ Essex, Sch Comp Sci & Elect Engn, Colchester CO4 3SQ, Essex, England.
+   [Hoydis, Jakob] Nokia Bell Labs, F-91620 Nozay, France.
+   [Clerckx, Bruno] Imperial Coll London, EEE Dept, London SW7 2AZ, England.
+C3 University of Essex; Nokia Corporation; Imperial College London
+RP Varasteh, M (corresponding author), Univ Essex, Sch Comp Sci & Elect Engn, Colchester CO4 3SQ, Essex, England.
+EM m.varasteh@essex.ac.uk; jakob.hoydis@nokia-bell-labs.com;
+   b.clerckx@imperial.ac.uk
+RI Hoydis, Jakob/AAG-6646-2020
+OI Hoydis, Jakob/0000-0002-0438-967X; Clerckx, Bruno/0000-0001-5949-6459
+FU EPSRC of the UK [EP/P003885/1]; EPSRC [EP/P003885/1] Funding Source:
+   UKRI
+FX This work has been partially supported by the EPSRC of the UK, under the
+   grant EP/P003885/1. This article was presented in part at the IEEE
+   International Conference on Acoustics, Speech and Signal Processing
+   (ICASSP), 2019 and in part at the IEEE International Workshop on Signal
+   Processing Advances in Wireless Communications (SPAWC), 2019.
+NR 30
+TC 9
+Z9 9
+U1 1
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0090-6778
+EI 1558-0857
+J9 IEEE T COMMUN
+JI IEEE Trans. Commun.
+PD NOV
+PY 2020
+VL 68
+IS 11
+BP 6822
+EP 6839
+DI 10.1109/TCOMM.2020.3017020
+PG 18
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+GA OU9BW
+UT WOS:000591819400016
+OA Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Ma, J
+   Ma, KL
+   Frazier, J
+AF Ma, Joyce
+   Ma, Kwan-Liu
+   Frazier, Jennifer
+TI Decoding a Complex Visualization in a Science Museum - An Empirical
+   Study
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+LA English
+DT Article
+DE Museums; informal science learning; interactive exhibit; public data
+   visualization; decoding; visual encoding
+ID MULTIPLE-REPRESENTATIONS; COGNITIVE LOAD; INFORMATION
+AB This study describes a detailed analysis of museum visitors decoding process as they used a visualization designed to support exploration of a large, complex dataset. Quantitative and qualitative analyses revealed that it took, on average, 43 seconds for visitors to decode enough of the visualization to see patterns and relationships in the underlying data represented, and 54 seconds to arrive at their first correct data interpretation. Furthermore, visitors decoded throughout and not only upon initial use of the visualization. The study analyzed think-aloud data to identify issues visitors had mapping the visual representations to their intended referents, examine why they occurred, and consider if and how these decoding issues were resolved. The paper also describes how multiple visual encodings both helped and hindered decoding and concludes with implications on the design and adaptation of visualizations for informal science learning venues.
+C1 [Ma, Joyce; Frazier, Jennifer] Exploratorium, San Francisco, CA 94111 USA.
+   [Ma, Kwan-Liu] Univ Calif Davis, Davis, CA 95616 USA.
+C3 University of California System; University of California Davis
+RP Ma, J (corresponding author), Exploratorium, San Francisco, CA 94111 USA.
+EM jma@exploratorium.edu; ma@cs.ucdavis.edu; jfrazier@exploratorium.edu
+FU National Science Foundation under DRL grants [1322828, 1323214]; Gordon
+   and Betty Moore Foundation; Direct For Education and Human Resources
+   [1323214] Funding Source: National Science Foundation; Direct For
+   Education and Human Resources; Division Of Research On Learning
+   [1322828] Funding Source: National Science Foundation; Division Of
+   Research On Learning [1323214] Funding Source: National Science
+   Foundation
+FX The authors wish to thank Lisa Sindorf, Meghan Kroning, Sophia Becker,
+   Rachel Cushing, Leah Humphreys, Tamara Kubacki, Renae Lessing, and
+   Martha Oropeza for their evaluation assistance. We'd also like to thank
+   Gregory Guterman, Kevin Boyd, and Nina Fujikawa for their role in the
+   exhibit design. This material is based upon work supported by the
+   National Science Foundation under DRL grants 1322828 and 1323214. Any
+   opinions, findings, and conclusions or recommendations expressed in this
+   material are those of the authors and do not necessarily reflect the
+   views of the National Science Foundation. Additional funding for this
+   work was provided by the Gordon and Betty Moore Foundation.
+NR 35
+TC 5
+Z9 8
+U1 1
+U2 20
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1077-2626
+EI 1941-0506
+J9 IEEE T VIS COMPUT GR
+JI IEEE Trans. Vis. Comput. Graph.
+PD JAN
+PY 2020
+VL 26
+IS 1
+BP 472
+EP 481
+DI 10.1109/TVCG.2019.2934401
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA KB0CF
+UT WOS:000506166100044
+PM 31425113
+OA Green Submitted
+DA 2024-01-21
+ER
+
+PT J
+AU Mettis, K
+   Väljataga, T
+AF Mettis, Kadri
+   Valjataga, Terje
+TI Designing learning experiences for outdoor hybrid learning spaces
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+LA English
+DT Article
+DE integrated learning; mobile learning; situated and contextualized
+   learning; higher-order thinking
+ID MOBILE DEVICES; STUDENTS; SCIENCE; KNOWLEDGE; TEACHERS; THINKING
+AB With the support of various personal and institutional mobile technologies, numerous physical and virtual spaces can be turned into interesting and motivating hybrid learning settings. By its nature, outdoor mobile learning happens on the move is connected to specific locations and settings inviting learners to study their surroundings, inquire about natural phenomena and solve complex real-life problems. This poses challenges for teachers to design meaningful, contextualized and comprehensive learning experiences. The paper aims to explore what kind of mobile learning scenarios K-12 teachers create and what are the limitations and development perspectives of these scenarios. Content analysis of 25 location-based outdoor learning tracks with 465 questions and tasks was carried out. The results demonstrate that designing and implementing learning activities outside the safe, familiar classroom environment in new hybrid learning spaces is a challenging task for the teachers on many different levels. Taking Bloom's revised taxonomy, types of contextualization and integrated learning models as frameworks for content analysis of the learning scenarios, the study shows that the teachers do not perceive the potential hybrid spaces and mobile technologies offer in order to design consistent learning experiences that emphasize higher order thinking levels, encompass contextual information and integrate knowledge from multiple disciplinary sources. The paper concludes that there is a need for more teacher training and systemic interventions into current teaching practices that encourage teachers to step outside of their existing teaching paradigms to acknowledge the pedagogical potential of hybrid learning spaces as well as the technological affordances.
+C1 [Mettis, Kadri] Tallinn Univ, Sch Digital Technol, Informat Soc Technol, Tallinn, Estonia.
+   [Valjataga, Terje] Tallinn Univ, Sch Educ Sci, Narva Rd 25, EE-10120 Tallinn, Estonia.
+C3 Tallinn University; Tallinn University
+RP Väljataga, T (corresponding author), Tallinn Univ, Sch Educ Sci, Narva Rd 25, EE-10120 Tallinn, Estonia.
+EM terjev@tlu.ee
+OI Valjataga, Terje/0000-0001-8109-0674
+FU European Union's Horizon 2020 Research and Innovation Program [669074];
+   TU TEE - Tallinn University under activity A5 in the Tallinn University
+   Centre of Excellence in Educational Innovation [2014-2020.4.01.16-0033]
+FX This project is partially funded by the European Union's Horizon 2020
+   Research and Innovation Program, grant agreement No. 669074 and by the
+   project, TU TEE - Tallinn University as a promoter of intelligent
+   lifestyle" (nr 2014-2020.4.01.16-0033) under activity A5 in the Tallinn
+   University Centre of Excellence in Educational Innovation.
+NR 36
+TC 12
+Z9 12
+U1 5
+U2 33
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0007-1013
+EI 1467-8535
+J9 BRIT J EDUC TECHNOL
+JI Br. J. Educ. Technol.
+PD JAN
+PY 2021
+VL 52
+IS 1
+BP 498
+EP 513
+AR e13034
+DI 10.1111/bjet.13034
+EA SEP 2020
+PG 16
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA QA9JR
+UT WOS:000574043700001
+DA 2024-01-21
+ER
+
+PT J
+AU Dragoicea, M
+   Walletzky, L
+   Carrubbo, L
+   Badr, NG
+   Toli, AM
+   Romanovska, F
+   Ge, MZ
+AF Dragoicea, Monica
+   Walletzky, Leonard
+   Carrubbo, Luca
+   Badr, Nabil Georges
+   Toli, Angeliki Maria
+   Romanovska, Frantiska
+   Ge, Mouzhi
+TI Service Design for Resilience: A Multi-Contextual Modeling Perspective
+SO IEEE ACCESS
+LA English
+DT Article
+DE Resilience; Diamond; Analytical models; Sustainable development; Unified
+   modeling language; Smart cities; Public services; resilience; service
+   design; service model; system thinking
+ID ORGANIZATIONAL RESILIENCE; SYSTEMS; EMERGENCE; SCIENCE
+AB This paper introduces a conceptual framework aiming to broaden the discussion on resilience for the design of public services. From a theoretical point of view, the paper explores service design with a Systems Thinking lens. A multi-contextual perspective aiming to analyze, decompose, and design smart cities services where resilience is an input at the service design level is described and the four diamondsof-context model for service design (4DocMod) is introduced. This service model accommodates various actors' contexts in public service design and consists of four design artefacts, the diamonds (See, Recognize, Organize, Do). From a practical point of view, guidelines for the application of the 4DocMod service model extension for resilience are described along with two case studies addressing the recent COVID-19 pandemic that illustrates a clear situation of resilience with insights in multiple contexts. According to the findings of this paper, it is obvious that resilience is not ``just'' a request. Instead, it plays a higher role within the service system. It is not ``just'' another Context, either. Instead, it goes through many contexts with different circumstances. In this manner, it is possible to address the qualities through which actors can become resilient, at the service design stage, to ensure continuity of the public services in times of emergency. As our approach using the 4DocMod is proposing, resilience may be is achieved when specific properties are provisioned at information service design level.
+C1 [Dragoicea, Monica] Univ Politehn Bucuresti, Fac Automat & Comp, Dept Automat & Syst Engn, Bucharest 060042, Romania.
+   [Walletzky, Leonard; Romanovska, Frantiska; Ge, Mouzhi] Masaryk Univ, Fac Informat, Dept Comp Syst & Commun, Brno 60200, Czech Republic.
+   [Carrubbo, Luca] Univ Salerno, Dept Business Sci Management & Innovat Syst, I-84084 Fisciano, Italy.
+   [Badr, Nabil Georges] Higher Inst Publ Hlth, Beirut 11042020, Lebanon.
+   [Toli, Angeliki Maria] UCL, Bartlett, London WC1E 6BT, England.
+C3 National University of Science & Technology POLITEHNICA Bucharest;
+   Masaryk University Brno; University of Salerno; University of London;
+   University College London
+RP Dragoicea, M (corresponding author), Univ Politehn Bucuresti, Fac Automat & Comp, Dept Automat & Syst Engn, Bucharest 060042, Romania.
+EM monica.dragoicea@upb.ro
+RI Badr, Nabil/AAM-8477-2021; Walletzký, Leonard/GQI-2510-2022; Romanovská,
+   Františka/GRI-9896-2022; Dragoicea, Monica/F-3214-2015
+OI Badr, Nabil/0000-0001-7110-3718; Walletzký, Leonard/0000-0003-4415-7715;
+   Dragoicea, Monica/0000-0002-4447-3219
+NR 105
+TC 9
+Z9 9
+U1 7
+U2 35
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 185526
+EP 185543
+DI 10.1109/ACCESS.2020.3029320
+PG 18
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Engineering; Telecommunications
+GA OH1NS
+UT WOS:000582338900001
+OA Green Submitted, gold
+DA 2024-01-21
+ER
+
+PT J
+AU Choo, S
+   Park, S
+   Nelson, NJ
+AF Choo, Sam
+   Park, Sunhi
+   Nelson, Nancy J.
+TI Evaluating Spatial Thinking Ability Using Item Response Theory:
+   Differential Item Functioning Across Math Learning Disabilities and
+   Geometry Instructions
+SO LEARNING DISABILITY QUARTERLY
+LA English
+DT Article
+DE three-dimensional printing; differential item functioning; Enhanced
+   Anchored Instruction; geometry instructions; item response theory; math
+   learning disabilities; spatial thinking; problem solving
+AB Science, Technology, Engineering, and Mathematics (STEM) education initiatives have placed pressure on teachers to bring technology tools into classroom, including three-dimensional (3D) printing. Yet, little research has examined what specific math skills are required for 3D printing technology. This article describes a follow-up analysis of findings from a quasi-experimental study that tested feasibility of 3D geometry instruction, Anchored Instruction with Technology Applications (AITA), designed to help students visualize and construct 3D models based on Enhanced Anchored Instruction. Although we found that AITA improved math outcomes of students with math learning disabilities (MLD) in the previous analysis, we only used composite scores encompassing a variety of math and spatial tasks. In this study, we employed item response theory and differential item functioning to examine the impacts of MLD on students' spatial thinking skills, understand the types of items to assess the intended skills in a valid way, and provide a detailed information of whether student ability and MLD status have caused different results to assess students' spatial thinking skills. Results showed that students with MLD struggle to learn spatial thinking skills, and AITA was a significant positive indicator to improve spatial thinking skills for both students with and without MLD.
+C1 [Choo, Sam; Park, Sunhi; Nelson, Nancy J.] Univ Oregon, Eugene, OR 97403 USA.
+C3 University of Oregon
+RP Choo, S (corresponding author), Univ Oregon, Coll Educ, Eugene, OR 97403 USA.
+EM schoo@uoregon.edu
+RI Choo, Sam/L-9933-2019
+OI Choo, Sam/0000-0003-0306-2306
+NR 51
+TC 3
+Z9 4
+U1 6
+U2 29
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0731-9487
+EI 2168-376X
+J9 LEARN DISABILITY Q
+JI Learn. Disabil. Q.
+PD MAY
+PY 2021
+VL 44
+IS 2
+BP 68
+EP 81
+AR 0731948720912417
+DI 10.1177/0731948720912417
+EA APR 2020
+PG 14
+WC Education, Special; Rehabilitation
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Rehabilitation
+GA RO2OP
+UT WOS:000523182700001
+DA 2024-01-21
+ER
+
+PT J
+AU Robb, KA
+   Gatting, LP
+   von Wagner, C
+   McGregor, LM
+AF Robb, Kathryn A.
+   Gatting, Lauren P.
+   von Wagner, Christian
+   McGregor, Lesley M.
+TI Preference for Deliberation and Perceived Usefulness of Standard-and
+   Narrative-Style Leaflet Designs: Implications for Equitable
+   Cancer-Screening Communication
+SO ANNALS OF BEHAVIORAL MEDICINE
+LA English
+DT Article
+DE Cancer screening; Colorectal cancer; Decision-making; Dual-process
+   theory; Human information processing
+ID PATIENT NARRATIVES; THINKING; INFORMATION; NEED; COGNITION; NUMERACY;
+   MESSAGE
+AB Background In the UK, cancer-screening invitations are mailed with information styled in a standard, didactic way to allow for informed choice. Information processing theory suggests this "standard style" could be more appealing to people who prefer deliberative thinking. People less likely to engage in deliberative thinking may be disenfranchised by the design of current standard-style information.
+   Purpose To examine the distribution of preference for deliberative thinking across demographic groups (Study 1) and explore associations between preference for deliberative thinking and perceived usefulness of standard-and narrative-style screening information (Study 2).
+   Methods In Study 1, adults aged 45-59 (n = 4,241) were mailed a questionnaire via primary care assessing preference for deliberative thinking and demographic characteristics. In Study 2, a separate cohort of adults aged 45-59 (n = 2,058) were mailed standard- and narrative-style leaflets and a questionnaire assessing demographic characteristics, preference for deliberative thinking, and perceived leaflet usefulness. Data were analyzed using multiple regression.
+   Results In Study 1 (n = 1,783) and Study 2 (n = 650), having lower socioeconomic status, being a women, and being of nonwhite ethnicity was associated with lower preference for deliberative thinking. In Study 2, the standard-style leaflet was perceived as less useful among participants with lower preference for deliberative thinking, while perceived usefulness of the narrative-style leaflet did not differ by preference for deliberative thinking.
+   Conclusions Information leaflets using a standard style may disadvantage women and those experiencing greater socioeconomic deprivation. More work is required to identify design styles that have a greater appeal for people with low preference for deliberative thinking.
+C1 [Robb, Kathryn A.; Gatting, Lauren P.] Univ Glasgow, Gartnavel Royal Hosp, Inst Hlth & Wellbeing, Admin Bldg,1st Floor,1055 Great Western Rd, Glasgow G12 0XH, Lanark, Scotland.
+   [von Wagner, Christian] UCL, Dept Behav Sci & Hlth, London, England.
+   [McGregor, Lesley M.] Univ Stirling, Fac Nat Sci, Div Psychol, Stirling, Scotland.
+C3 University of Glasgow; Gartnavel Royal Hospital; University of London;
+   University College London; University of Stirling
+RP Robb, KA (corresponding author), Univ Glasgow, Gartnavel Royal Hosp, Inst Hlth & Wellbeing, Admin Bldg,1st Floor,1055 Great Western Rd, Glasgow G12 0XH, Lanark, Scotland.
+EM Katie.Robb@glasgow.ac.uk
+RI Gatting, Lauren/GOH-3059-2022
+OI McGregor, Lesley M./0000-0002-7093-1391; Robb,
+   Katie/0000-0002-1672-0411; Gatting, Lauren/0000-0003-3693-2013
+FU Cancer Research UK Postdoctoral Fellowship [C9227/A8933]; National
+   Institute for Health Research under its Programme Grants for Applied
+   Research Programme [RP-PG-0609-10106]
+FX This research was supported by a Cancer Research UK Postdoctoral
+   Fellowship awarded to K.R. (C9227/A8933). Study 2 was also supported by
+   a grant from the National Institute for Health Research under its
+   Programme Grants for Applied Research Programme (RP-PG-0609-10106).
+NR 34
+TC 5
+Z9 5
+U1 0
+U2 4
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0883-6612
+EI 1532-4796
+J9 ANN BEHAV MED
+JI Ann. Behav. Med.
+PD MAR
+PY 2020
+VL 54
+IS 3
+BP 193
+EP 201
+DI 10.1093/abm/kaz039
+PG 9
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA MG7YT
+UT WOS:000546247400005
+PM 31595299
+OA Green Published, Green Accepted
+DA 2024-01-21
+ER
+
+PT J
+AU Ozturk, SD
+AF Durmus Ozturk, Serap
+TI Rethinking the Black Box in Architecture Design Studio
+SO SAGE OPEN
+LA English
+DT Article
+DE architecture; design studio; design education; black box
+ID CREATIVITY
+AB Design as a critical action can be defined as a concrete-utilitarian construction process and a state-related symbolic ritual. The process of design is defined by the abstraction area, which is accompanied by abstract forms of representation for the physical environment in a built environment and the response to problems. Black Box is defined as tool, system, or object that in art and science is evaluated by inputs and outputs and does not include any internal information. The Black Box problem, which is part of the architectural design process, has been reconstructed as a critical stance to the closed and implicit architectural production process, supporting open thought to the end but formally designing houses that remain faithful to this black box. Hence, this article is an example of a physical and semantic representation production with an emphasis on design as a critical action and metaphor. This article, which presents the black box problem through a theoretical perspective and architectural design studio examples, focuses on the semantic and formal representation of all conditions of a cube. This aspect aims to provide a creative cross section from the potential of infinite design.
+C1 [Durmus Ozturk, Serap] Karadeniz Tech Univ, Trabzon, Turkey.
+C3 Karadeniz Technical University
+RP Ozturk, SD (corresponding author), Karadeniz Tech Univ, Dept Architecture, TR-61080 Trabzon, Turkey.
+EM serapdurmus@ktu.edu.tr
+RI Durmus Ozturk, Serap/AAJ-9388-2021
+OI Durmus Ozturk, Serap/0000-0001-6902-069X
+NR 56
+TC 4
+Z9 4
+U1 1
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 2158-2440
+J9 SAGE OPEN
+JI SAGE Open
+PD APR
+PY 2020
+VL 10
+IS 2
+AR 2158244020927408
+DI 10.1177/2158244020927408
+PG 13
+WC Social Sciences, Interdisciplinary
+WE Social Science Citation Index (SSCI)
+SC Social Sciences - Other Topics
+GA LW1BB
+UT WOS:000538879900001
+OA gold
+DA 2024-01-21
+ER
+
+EF
