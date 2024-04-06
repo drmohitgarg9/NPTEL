@@ -1,0 +1,273 @@
+getwd()
+
+#data will in download directory either move data to documents or
+#set the current directory to downloads 
+setwd()
+
+##Import the data 
+dfCase2<-read.csv("scopusBK-Pani.csv")
+
+#Name of the object: where data is imported : "dfCase2"
+
+#View the dataset
+
+View(dfCase2)
+
+summary(dfCase)
+
+###Year wise productivity publications 
+
+#Practice as per previous lecture
+
+#Doctype 
+####Document Type#### 
+
+#Where our data is?
+
+dfCase2$Document.Type
+
+#column name is Document.Type? 
+#View the Dfcase
+
+#Document type data is 
+dfCase2$Document.Type
+
+#Function to be used to count the category 
+
+table()
+
+table(dfCase2$Document.Type)
+
+dfDocType <- data.frame(table(dfCase2$Document.Type))
+
+dfDocType
+
+View(dfDocType)
+
+#We have document type and number of publications 
+
+#We will add one more column of percentage 
+
+#How we will do? 
+
+#the way we have done before
+
+#Manual formula 
+
+dfDocType$Percent<-(dfDocType$Freq/sum(dfDocType$Freq)*100)
+
+View(dfDocType)
+
+#round to 2 decimal point
+
+dfDocType$Percent<-round(dfDocType$Percent, 2)
+
+#How to sort data ?
+
+dfDocType[order(dfDocType$Freq), ]
+
+#But we want to have in decreasing order
+
+dfDocType[order(dfDocType$Freq, decreasing = TRUE), ]
+
+#Always see what default it takes
+dfDocType<-dfDocType[order(dfDocType$Freq, decreasing = TRUE), ]
+
+#Save it as an external file
+
+write.csv(dfDocType, file = "DocType.csv")
+
+#Visualization 
+
+#What we will visualise 
+
+#Pie Chart 
+?pie
+
+pie(dfDocType$Freq)
+
+pie(dfDocType$Freq, labels = dfDocType$Var1, main = "Pie Chart", 
+    col = rainbow(nrow(dfDocType)), cex = 1)
+
+#direction
+
+pie(dfDocType$Freq, labels = dfDocType$Var1, main = "Pie Chart", 
+    col = rainbow(nrow(dfDocType)), cex = 0.5,clockwise = TRUE)
+
+#Export the files 
+
+#document type is done
+
+##Highly Cited Publications
+
+dfCase2C<-data.frame(Title=dfCase2$Title, Citation=dfCase2$Cited.by)
+
+View(dfCase2C)
+
+sorted_dfCase2 <- dfCase2C[order(-dfCase2C$Citation), ]
+
+View(sorted_dfCase2)
+
+# Extract the top 10 most cited papers
+top10 <- head(sorted_dfCase2, 10)
+
+View(top10)
+#Based on condition if we want to do for atleast 100 citations
+#Practice
+
+#Key Topic of Research 
+
+library(tm)
+library(textstem)
+library(topicmodels)
+library(tidytext)
+library(dplyr)
+library(ggplot2)
+
+#Attaching both title and Abstract 
+
+dfCase2TiAb <- data.frame(paste(dfCase2$Title, dfCase2$Abstract, sep = ". "))
+
+colnames(dfCase2TiAb) <-"text"
+
+dfCase2TiAb$text[1]
+
+dfCase2$Title[1]
+dfCase2$Abstract[1]
+
+dfCase2$Abstract[10]
+
+dfCase2$Abstract[13]
+
+dfCase2$Abstract[17]
+
+#Pattern for removing text
+
+gsub("©.*","",dfCase2$Abstract[1] )
+
+gsub("©.*","",dfCase2$Abstract[10] )
+
+gsub("©.*","",dfCase2$Abstract[17] )
+
+gsub("\\s+\\w+\\s*$","",dfCase2$Abstract[13] )
+
+#Combined Pattern for removing text
+
+myPat<-"©.*|\\s+\\w+\\s*$"
+
+gsub(myPat, "",dfCase2$Abstract[10])
+
+gsub(myPat, "",dfCase2$Abstract[13])
+
+
+#Function for clearning the dataset
+
+Week9CleanLem<- function(x){
+  
+  myPat<-"©.*|\\s+\\w+\\s*$"
+  
+  x<-gsub(myPat, "", x)
+  
+  x <-tolower(x)
+  
+  x<-gsub("[[:punct:]]", " ", x)
+  
+  x <-removeWords(x,stopwords('SMART'))
+  
+  x <-stripWhitespace(x)
+  
+  x<-removeNumbers(x)
+  
+  x<-lemmatize_strings(x)
+  
+  return(x) 
+  
+}
+
+CleanDfAuth<- Week9CleanLem(dfCase2TiAb$text) 
+
+#Creating the corpus
+corpusAuth<-Corpus(VectorSource(CleanDfAuth))
+
+?DocumentTermMatrix
+dtmAu <- DocumentTermMatrix(corpusAuth)
+dtmAu
+
+#top words 
+
+freq <- colSums(as.matrix(dtmAu))
+length(freq)
+ord <- order(freq, decreasing = TRUE)
+freq [head(ord, n = 50)]
+top50words<-freq [head(ord, n = 50)]
+
+#Save the 50 words as file
+
+write.csv(top50words, file = "Top50AuhWords.csv")
+#Working Directory 
+getwd()
+
+#topic Modelling
+
+#Number of Topics
+topicNum <- 5
+
+?LDA
+
+ldaAu <- LDA(dtmAu, k=topicNum, method = "Gibbs" , control = list(seed = 1234))
+
+#LDA gives multiple things in the output
+#Let's have Beta, per topic word distribution
+
+TopicsAu <- tidy(ldaAu, matrix = "beta")
+View(TopicsAu)
+
+#To see number of terms 
+
+#Maximum Value 
+max(TopicsAu$beta[1:5])
+
+sort(TopicsAu$beta[1:5], decreasing = TRUE)
+#Topics Words
+
+TopicsExport<-as.data.frame(terms(ldaAu, 10))
+
+View(TopicsExport)
+write.csv(TopicsExport, file = "TopicsExportAut.csv")
+
+#Package tidy and dplyr
+
+library(tidytext)
+
+library(dplyr)
+
+topAuTerms <-
+  TopicsAu %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+View(topAuTerms)
+#VIsualising the topic wise words plot 
+
+##Topic 1
+
+barplot(topAuTerms$beta[1:10], names.arg = topAuTerms$term[1:10], las=2, col ="red", main = "Topic 1" )
+
+##Topic 2
+
+barplot(topAuTerms$beta[11:20], names.arg = topAuTerms$term[11:20], las=2, col ="green", main = "Topic 2")
+
+##Topic 3
+
+barplot(topAuTerms$beta[21:30], names.arg = topAuTerms$term[21:30], las=2, col ="cyan",main = "Topic 3" )
+
+##Topic 4
+
+barplot(topAuTerms$beta[31:40], names.arg = topAuTerms$term[31:40], las=2, col ="#E310DC",main = "Topic 4" )
+
+##Topic 5
+
+barplot(topAuTerms$beta[41:50], names.arg = topAuTerms$term[41:50], las=2, col ="#F0AC06",main = "Topic 5" )
+
