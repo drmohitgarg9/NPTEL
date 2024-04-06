@@ -1,0 +1,456 @@
+#AI in tourism Research 
+
+getwd()
+
+#data will in download directory either move data to documents or
+#set the current directory to downloads 
+setwd()
+
+##Import the data 
+
+dfCase<-read.csv("scopus.csv")
+#Name of the object: where data is imported : "dfCase"
+
+####To view the dataset in different tab like excel
+
+View(dfCase)
+
+summary(dfCase)
+
+#Basic Analysis
+
+#$$$First analysis 
+
+###Year wise productivity publications 
+
+#Data will be like year = 2022,2022,2022,2021,2021,2022,2020,2019,2019, so to do the analysis first we will count the frequency
+#of each year, then plot the analysis 
+#Column name where year data is there
+
+dfCase$
+  
+colnames(dfCase)
+
+#To know year wise distribution 
+table(dfCase$Year)
+
+dfCaseYear<-data.frame(table(dfCase$Year))
+
+colnames(dfCaseYear)
+
+View(dfCaseYear)
+
+######Cumulative Sum########
+
+cumsum()
+?cumsum
+
+##Calculating Cumulative Frequency 
+cumsum(dfCaseYear$Freq)
+
+#Attaching to the existing data frame 
+
+#Existing dataframe $ new column name 
+
+dfCaseYear$CuFreq<-cumsum(dfCaseYear$Freq)
+
+View(dfCaseYear)
+
+##Percentage Column also 
+
+#own formula 
+
+dfCaseYear$PerFreq<- (dfCaseYear$Freq/sum(dfCaseYear$Freq))*100
+
+View(dfCaseYear)
+
+#Converting in two decimals 
+?round
+dfCaseYear$PerFreq <-round(dfCaseYear$PerFreq, 2)
+
+View(dfCaseYear)
+
+
+
+#Citation Distributions 
+
+#In each year, we have counted only publications Now we have each publications and citations
+
+#Original Dataset 
+
+dfCase
+
+#Seeing the column name 
+
+dfCase$
+
+caseCitation<-aggregate(Cited.by ~ Year, data = dfCase, FUN = sum)
+
+caseCitation
+
+dfCaseYear$Citation <- caseCitation$Cited.by
+
+View(dfCaseYear)
+
+
+#We need to see citation per paper (cpp)
+
+#Citation/Paper
+
+dfCaseYear$CPP<-dfCaseYear$Citation/dfCaseYear$Freq
+
+#round to 2 decimal point
+
+dfCaseYear$CPP<-round(dfCaseYear$CPP, 2)
+
+#rounding to nearest number
+
+dfCaseYear$CPP<-round(dfCaseYear$CPP)
+
+View(dfCaseYear)
+
+#To visualize the publication and citation year wise 
+
+
+?plot 
+
+plot(dfCaseYear$Var1, dfCaseYear$Freq)
+
+
+#Converting from factor to numeric 
+
+plot(dfCaseYear$Var1, dfCaseYear$Freq, type="l")
+
+#We have to change to change from factor to numeric 
+#Table convert it to factor 
+
+dfCaseYear$Var1<-as.numeric(as.character(dfCaseYear$Var1))
+
+plot(dfCaseYear$Var1, dfCaseYear$Freq, type="l")
+
+#Thickness of line 
+
+plot(dfCaseYear$Var1, dfCaseYear$Freq, type="l", lwd=5)
+
+#Adding labels , line width color 
+
+plot(dfCaseYear$Var1, dfCaseYear$Freq, 
+     type="l", lwd=2, col="red", 
+     xlab = "Year", ylab = "Publications", 
+     main = "Annual Distribution of Publication ")
+
+
+#Adding points to the line 
+
+points(dfCaseYear$Var1, dfCaseYear$Freq,
+       col = "blue", pch = 20)
+
+
+
+#What pch is 
+
+?pch
+
+#Selected Points highlighting 
+
+selected <- c(1,6, 14,22,26,30,32,34)
+
+points(dfCaseYear$Var1[selected], 
+       dfCaseYear$Freq[selected], 
+       col = "blue", pch = 16)
+
+
+#Labeling of points 
+
+text(dfCaseYear$Var1[selected], 
+     dfCaseYear$Freq[selected],
+     labels = dfCaseYear$Freq[selected],
+     col = "#EA1EEA", cex=0.9, pos = 1)
+
+#WHat is cex (size of the text), 
+#3pos (position of text; 1, 2,3 ,4 Below, Left, Above, Right)
+?text 
+
+
+#You can select points based on criteria 
+
+selected_points <- subset(dfCaseYear, Freq > 500)  # For example, selecting points with Freq > 10
+
+# Adding data points at selected values
+points(selected_points$Var1, selected_points$Freq, col = "black", pch = 16)
+
+
+#Visulising the plot based on cutting the line 
+# Plot x and y
+library (plotrix)
+
+par(mar=c(4,4,2,2))
+
+my_colors1<-c("#EA1EEA", "#3417ED",
+              "#0CF11D")
+
+clplot(dfCaseYear$Var1, 
+       dfCaseYear$Freq, main="Annual Distribution",
+       lwd=5,
+       levels=c(93,404),col=my_colors1, 
+       showcuts=T , bty="n",xlab="Year", 
+       ylab = "Publications", axes=F)
+
+axis(1, at = dfCaseYear$Var1, las=2) #For X axis 
+axis(2, at = seq(0, 2500, by = 100), las=2)  #For Y axis
+
+
+legend("top",
+       c("1990-2003","2003-2016","2016-2023"),
+       fill=c("#EA1EEA", "#3417ED",
+              "#0CF11D"))
+
+
+#Legend on specific location
+legend(x=1992,y=2400,
+       c("1990-2003","2003-2016","2016-2023"),
+       fill=c("#EA1EEA", "#3417ED",
+              "#0CF11D"))
+
+#Data labeling
+
+selected <- c(1,6, 14,22,26,30,32,34)
+text(dfCaseYear$Var1[selected], 
+     dfCaseYear$Freq[selected],
+     labels = dfCaseYear$Freq[selected],
+     cex = 0.9, pos = 2, col = "black")
+
+#Top Sources in Terms of publications
+#Which column we need to analyse
+#Source Title 
+#Data Source
+
+dfCase
+
+dfCase$Source.title
+
+table()
+table(dfCase$Source.title)
+
+dfDatSrc<-data.frame(table(dfCase$Source.title))
+
+dfDatSrc<-dfDatSrc[order(dfDatSrc$Freq, decreasing = TRUE), ]
+
+View(dfDatSrc)
+#Top 10 Source
+
+df10<-head(dfDatSrc,10)
+
+View(df10)
+
+#Source with publication 
+#based on conditions , may be more than 100 publications 
+
+df100<-subset(dfDatSrc, Freq>=100)
+
+View(df100)
+
+write.csv(df100, file = "Source100Pub.csv")
+
+###Authorship analysis#####
+
+
+#Number of Authors 
+
+#Column name ?
+
+#Authors 
+dfCase$Authors
+#Todo the analysis we need author and year
+
+#lets make it our analysis data 
+
+#Why? Year=
+
+dfCaseAuth<-data.frame(Year=dfCase$Year, Authors= dfCase$Authors)
+
+View(dfCaseAuth)
+
+#See the pattern
+
+dfCaseAuth$Authors[1]
+
+#Number of semi colon 
+
+dfCaseAuth$Authors[1]
+
+#Package for string operations
+
+library(stringr)
+
+str_extract(dfCaseAuth$Authors[1], ";")
+
+str_extract(dfCase$Title[1], ";")
+
+str_count(dfCaseAuth$Authors[1], ";")
+
+#But authors are three
+
+dfCaseAuth$Authors[1]
+
+#Number of authors will be +1
+
+str_count(dfCaseAuth$Authors[1], ";") +1 
+
+dfCaseAuth$Count<-str_count(dfCaseAuth$Authors, ";") +1 
+
+View(dfCaseAuth)
+
+table(dfCaseAuth$Count)
+#We Will count the occurence of 1, 2, 3 and then make it sum
+
+dfCaseAuth$Count==1
+
+sum(dfCaseAuth$Count==1)
+
+sum(dfCaseAuth$Count==2)
+
+sum(dfCaseAuth$Count==3)
+
+sum(dfCaseAuth$Count>3)
+
+sum(dfCaseAuth$Count>=100)
+
+# Our authorship analysis data  
+
+View(dfCaseAuth)
+
+#Data is perfect well. so now we will do more analysis 
+#how is this authorship pattern around the years
+#Initial single then collobrated or vice versa
+
+library(dplyr)
+
+#Now we will add the 
+
+dfCaseAuth <- dfCaseAuth %>%
+  mutate(Freq_class = case_when(
+    Count == 1 ~ "One Author",
+    Count == 2 ~ "Two Authors",
+    Count == 3 ~ "Three Authors",
+    Count > 3 ~ "More than Three Authors"
+  ))
+
+View(dfCaseAuth)
+
+#Now we need more analysis on that we want to count the 
+#number of single authors, double, triple or more than three authors 
+
+FinalAnalysis<-table(dfCaseAuth$Year, dfCaseAuth$Freq_class)
+
+View(FinalAnalysis)
+
+# We will convert this to dataframe 
+
+FinalAnalysis<-data.frame(FinalAnalysis)
+
+View(FinalAnalysis)
+
+write.csv(FinalAnalysis, file = "FinalDat.csv")
+
+
+#Now you can present table or you can make graph
+
+#to make a graph  for this stacked barplot will be good
+
+
+#Plotting Stacked 
+
+library(ggplot2)
+
+ggplot(FinalAnalysis, aes(fill=Var2, y=Freq, x=Var1)) + 
+  geom_bar(position="stack", stat="identity")+
+  labs(title = "Authorship Pattern",
+       x = "Year",  # Change the x-axis label
+       y = "Number of Publications",  # Change the y-axis label
+       fill = "") +  # Change the legend title
+  theme_minimal() +
+  theme(legend.position = "top",axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))  # location of the legen
+
+
+##############
+
+
+
+##Bradford Law 
+
+library(bibliometrix)
+
+#our data 
+
+View(dfCase)
+
+#Converting to the dataframe as bibliometrix package format
+#standardised format
+
+#Scopus Data 
+View(dfCase)
+
+#Web of Science Data
+
+
+
+
+
+
+
+# Change the name of column from Source Title
+#to "SO"
+
+names(dfCase)[names(dfCase) == "Source.title"] <- "SO"
+
+#Bardford Function taken from original source https://github.com/massimoaria/bibliometrix/blob/master/R/bradford.R
+
+NewBradford<-function(M){
+  
+  SO=sort(table(M$SO),decreasing = TRUE)
+  n=sum(SO)
+  cumSO=cumsum(SO)
+  cutpoints=round(c(1,n*0.33,n*0.67,Inf))
+  groups=cut(cumSO,breaks = cutpoints,labels=c("Zone 1", "Zone 2", "Zone 3"))
+  a=length(which(cumSO<n*0.33))+1
+  b=length(which(cumSO<n*0.67))+1
+  Z=c(rep("Zone 1",a),rep("Zone 2",b-a),rep("Zone 3",length(cumSO)-b))
+  df=data.frame(SO=names(cumSO),Rank=1:length(cumSO),Freq=as.numeric(SO),cumFreq=cumSO,Zone=Z)
+  
+  x <- c(max(log(df$Rank))-0.02-diff(range(log(df$Rank)))*0.125, max(log(df$Rank))-0.02)
+  y <- c(min(df$Freq),min(df$Freq)+diff(range(df$Freq))*0.125)+1
+  data("logo",envir=environment())
+  logo <- grid::rasterGrob(logo,interpolate = TRUE)
+  
+  g=ggplot2::ggplot(df, aes(x = log(.data$Rank), y = .data$Freq, text=paste("Source: ",.data$SO,"\nN. of Documents: ",.data$Freq))) +
+    geom_line(aes(group="NA")) +
+    #geom_area(aes(group="NA"),fill = "gray90", alpha = 0.5) +
+    annotate("rect", xmin=0, xmax=log(df$Rank[a]), ymin=0, ymax=max(df$Freq), alpha=0.2)+
+    labs(x = 'Source log(Rank)', y = 'Articles', title = "NPTEL Bradford's Law") +
+    annotate("text",x=log(df$Rank[a])/2, y=max(df$Freq)/2, label = "Core\nSources",fontface =2,alpha=0.5,size=10)+
+    scale_x_continuous(breaks=log(df$Rank)[1:a],labels=as.character(substr(df$SO,1,25))[1:a]) +
+    theme(text = element_text(color = "#5C3BC2")
+          ,legend.position="none"
+          ,panel.background = element_rect(fill = '#FFFFFF')
+          ,panel.grid.minor = element_blank()
+          ,panel.grid.major = element_blank()
+          ,plot.title = element_text(size = 24)
+          ,axis.title = element_text(size = 14, color = '#555555')
+          ,axis.line.x = element_line(color="cyan",size=0.5)
+          ,axis.line.y = element_line(color="green",size=0.5)
+          ,axis.title.y = element_text(vjust = 1, angle = 90)
+          ,axis.title.x = element_text(hjust = 0)
+          ,axis.text.x = element_text(angle=90,hjust=1,size=8,face="bold")
+    ) 
+  
+  results=list(table=df,graph=g)
+  return(results)
+}
+
+#Results based on new function
+
+NewBradResults<-NewBradford(dfCase)
+
+NewBradResults
+
